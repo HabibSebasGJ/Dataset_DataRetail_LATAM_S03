@@ -1,0 +1,1001 @@
+Venta_ID,Fecha,Pais,Ciudad,Canal_Venta,Edad,Categoria,Ventas,Costo,Utilidad,Satisfaccion
+1,2025-01-01,Colombia,Cartagena,App Móvil,48,Hogar,1411109,964856,446253,1
+2,2025-01-01,Colombia,Cartagena,Ecommerce,65,Hogar,2314542,1039445,1275097,5
+3,2025-01-01,Colombia,Cartagena,Ecommerce,60,Tecnologia,2908495,2133467,775028,2
+4,2025-01-01,Colombia,Cartagena,Ecommerce,51,Oficina,2209725,995388,1214337,5
+5,2025-01-01,Colombia,Cartagena,App Móvil,58,Oficina,755158,485827,269331,1
+6,2025-01-01,Colombia,Cartagena,App Móvil,39,Hogar,1422256,1125765,296491,2
+7,2025-01-01,Colombia,Cartagena,App Móvil,62,Oficina,1526937,749710,777227,2
+8,2025-01-01,Colombia,Cartagena,Tienda Física,68,Hogar,334758,188993,145765,3
+9,2025-01-01,Colombia,Cartagena,App Móvil,69,Tecnologia,1559157,1227101,332056,2
+10,2025-01-01,Colombia,Cartagena,Ecommerce,31,Tecnologia,1776365,1282835,493530,4
+11,2025-01-01,Colombia,Cartagena,App Móvil,33,Hogar,2376449,1516023,860426,3
+12,2025-01-01,Colombia,Cartagena,Ecommerce,65,Tecnologia,2484427,1381474,1102953,4
+13,2025-01-01,Colombia,Cartagena,Tienda Física,70,Tecnologia,860271,517002,343269,1
+14,2025-01-01,Colombia,Cartagena,Tienda Física,22,Tecnologia,2036328,1227396,808932,5
+15,2025-01-01,Colombia,Cartagena,Tienda Física,19,Hogar,1841634,1165921,675713,5
+16,2025-01-01,Colombia,Cartagena,Ecommerce,28,Tecnologia,1436844,937643,499201,3
+17,2025-01-01,Colombia,Cartagena,App Móvil,60,Oficina,2088492,1508592,579900,5
+18,2025-01-01,Colombia,Cartagena,Ecommerce,24,Oficina,735451,521852,213599,1
+19,2025-01-01,Colombia,Cartagena,App Móvil,30,Hogar,2834298,1451715,1382583,2
+20,2025-01-01,Colombia,Cartagena,App Móvil,59,Oficina,1411189,585754,825435,2
+21,2025-01-01,Colombia,Cartagena,Tienda Física,49,Oficina,194156,152349,41807,1
+22,2025-01-01,Colombia,Cartagena,Ecommerce,65,Tecnologia,2969218,1526551,1442667,3
+23,2025-01-01,Colombia,Cartagena,App Móvil,41,Hogar,2147372,1626888,520484,5
+24,2025-01-01,Colombia,Cartagena,Tienda Física,28,Hogar,2443145,1908999,534146,1
+25,2025-01-01,Colombia,Cartagena,Ecommerce,49,Hogar,1842023,1385148,456875,3
+26,2025-01-01,Colombia,Cartagena,Ecommerce,30,Oficina,2816973,1563831,1253142,1
+27,2025-01-01,Colombia,Cartagena,Ecommerce,54,Oficina,2028374,1557902,470472,5
+28,2025-01-01,Colombia,Cartagena,Ecommerce,55,Oficina,1850819,912450,938369,1
+29,2025-01-01,Colombia,Cartagena,App Móvil,26,Tecnologia,324623,191002,133621,3
+30,2025-01-01,Colombia,Cartagena,Tienda Física,18,Hogar,1688448,1200071,488377,5
+31,2025-01-01,Colombia,Cartagena,Tienda Física,42,Hogar,472574,276214,196360,2
+32,2025-01-01,Colombia,Cartagena,Ecommerce,24,Oficina,2926915,2054691,872224,2
+33,2025-01-01,Colombia,Cartagena,Ecommerce,20,Oficina,2955756,2063869,891887,2
+34,2025-01-01,Colombia,Cartagena,App Móvil,30,Tecnologia,2616697,1764826,851871,5
+35,2025-01-01,Colombia,Cartagena,App Móvil,63,Hogar,1958976,1274778,684198,5
+36,2025-01-01,Colombia,Cartagena,Ecommerce,28,Oficina,388579,299927,88652,2
+37,2025-01-01,Colombia,Cartagena,Ecommerce,60,Oficina,1515222,939231,575991,1
+38,2025-01-01,Colombia,Cartagena,Tienda Física,27,Tecnologia,2395080,1461469,933611,2
+39,2025-01-01,Colombia,Cartagena,Ecommerce,70,Tecnologia,1217792,575116,642676,2
+40,2025-01-01,Colombia,Cartagena,Ecommerce,38,Tecnologia,546854,370245,176609,4
+41,2025-01-01,Colombia,Cartagena,Tienda Física,58,Oficina,1399352,637794,761558,3
+42,2025-01-01,Colombia,Cartagena,App Móvil,52,Hogar,1237735,636600,601135,1
+43,2025-01-01,Colombia,Cartagena,Ecommerce,22,Hogar,858839,552659,306180,3
+44,2025-01-01,Colombia,Cartagena,Ecommerce,34,Oficina,2973148,2322738,650410,4
+45,2025-01-01,Colombia,Cartagena,App Móvil,32,Tecnologia,1601411,1086838,514573,1
+46,2025-01-01,Colombia,Cartagena,App Móvil,54,Hogar,2420717,1748424,672293,2
+47,2025-01-01,Colombia,Cartagena,Ecommerce,47,Oficina,910777,599522,311255,3
+48,2025-01-01,Colombia,Cartagena,Tienda Física,64,Hogar,2162229,1236808,925421,1
+49,2025-01-01,Colombia,Cartagena,Tienda Física,39,Oficina,2183691,1532087,651604,5
+50,2025-01-01,Colombia,Cartagena,Ecommerce,30,Tecnologia,1344816,843823,500993,1
+51,2025-01-01,Colombia,Cartagena,Ecommerce,32,Tecnologia,671167,393048,278119,2
+52,2025-01-01,Colombia,Cartagena,Ecommerce,61,Tecnologia,1536652,623834,912818,2
+53,2025-01-01,Colombia,Cartagena,Ecommerce,48,Tecnologia,2437177,1592045,845132,5
+54,2025-01-01,Colombia,Cartagena,Ecommerce,55,Hogar,1819477,1125273,694204,2
+55,2025-01-01,Colombia,Cartagena,App Móvil,48,Oficina,1797753,809442,988311,5
+56,2025-01-01,Colombia,Cartagena,Ecommerce,41,Oficina,2849654,1577193,1272461,5
+57,2025-01-01,Colombia,Cartagena,Tienda Física,25,Oficina,2747866,1346460,1401406,1
+58,2025-01-01,Colombia,Cartagena,Ecommerce,40,Tecnologia,438458,337618,100840,5
+59,2025-01-01,Colombia,Cartagena,App Móvil,19,Oficina,2168360,953510,1214850,3
+60,2025-01-01,Colombia,Cartagena,Ecommerce,20,Tecnologia,2545791,1088351,1457440,1
+61,2025-01-01,Colombia,Cartagena,Ecommerce,34,Hogar,1908850,1315545,593305,1
+62,2025-01-01,Colombia,Cartagena,Ecommerce,58,Oficina,1057687,647918,409769,4
+63,2025-01-01,Colombia,Cartagena,Ecommerce,52,Hogar,649599,490308,159291,1
+64,2025-01-01,Colombia,Cartagena,Tienda Física,57,Oficina,616867,408700,208167,2
+65,2025-01-01,Colombia,Cartagena,App Móvil,19,Hogar,739201,470507,268694,1
+66,2025-01-01,Colombia,Cartagena,Ecommerce,27,Oficina,348483,275649,72834,4
+67,2025-01-01,Colombia,Cartagena,Tienda Física,38,Hogar,1921283,1233814,687469,1
+68,2025-01-01,Colombia,Cartagena,Ecommerce,24,Tecnologia,2836723,1745831,1090892,3
+69,2025-01-01,Colombia,Cartagena,App Móvil,67,Hogar,1700810,1052248,648562,4
+70,2025-01-01,Colombia,Cartagena,App Móvil,57,Hogar,2412088,1252409,1159679,5
+71,2025-01-01,Colombia,Cartagena,Tienda Física,69,Hogar,950508,577437,373071,3
+72,2025-01-01,Colombia,Cartagena,App Móvil,38,Oficina,1232184,918083,314101,1
+73,2025-01-01,Colombia,Cartagena,Ecommerce,66,Hogar,870829,577540,293289,5
+74,2025-01-01,Colombia,Cartagena,Tienda Física,44,Oficina,902395,538146,364249,2
+75,2025-01-01,Colombia,Cartagena,Tienda Física,39,Tecnologia,1287985,926785,361200,3
+76,2025-01-01,Colombia,Cartagena,Ecommerce,64,Tecnologia,2460740,1155732,1305008,2
+77,2025-01-01,Colombia,Cartagena,Tienda Física,40,Tecnologia,2447382,1499818,947564,3
+78,2025-01-01,Colombia,Cartagena,Tienda Física,45,Oficina,1163604,476833,686771,4
+79,2025-01-01,Colombia,Cartagena,Tienda Física,61,Hogar,393535,213483,180052,2
+80,2025-01-01,Colombia,Cartagena,Ecommerce,51,Hogar,1360198,665199,694999,5
+81,2025-01-01,Colombia,Cartagena,App Móvil,43,Hogar,1390840,701127,689713,3
+82,2025-01-01,Colombia,Cartagena,App Móvil,41,Hogar,2761720,1880904,880816,4
+83,2025-01-01,Colombia,Cartagena,Ecommerce,63,Oficina,2478570,1845575,632995,3
+84,2025-01-01,Colombia,Cartagena,App Móvil,48,Tecnologia,1428363,772676,655687,5
+85,2025-01-01,Colombia,Cartagena,App Móvil,50,Oficina,650126,339869,310257,4
+86,2025-01-01,Colombia,Cartagena,Tienda Física,66,Oficina,1259147,870918,388229,4
+87,2025-01-01,Colombia,Cartagena,Tienda Física,23,Hogar,1405869,1123740,282129,5
+88,2025-01-01,Colombia,Cartagena,Tienda Física,18,Hogar,1669896,966199,703697,4
+89,2025-01-01,Colombia,Cartagena,Ecommerce,48,Hogar,2072684,1284717,787967,2
+90,2025-01-01,Colombia,Cartagena,App Móvil,52,Hogar,414839,292141,122698,1
+91,2025-01-01,Colombia,Cartagena,Tienda Física,54,Tecnologia,441402,332735,108667,4
+92,2025-01-01,Colombia,Cartagena,Tienda Física,47,Tecnologia,2482585,1490049,992536,3
+93,2025-01-01,Colombia,Cartagena,App Móvil,57,Oficina,177541,77176,100365,3
+94,2025-01-01,Colombia,Cartagena,Tienda Física,18,Tecnologia,1243744,829640,414104,3
+95,2025-01-01,Colombia,Cartagena,Ecommerce,33,Tecnologia,1258415,707509,550906,4
+96,2025-01-01,Colombia,Cartagena,Ecommerce,20,Tecnologia,2731460,1388934,1342526,4
+97,2025-01-01,Colombia,Cartagena,Ecommerce,18,Hogar,1755368,1360520,394848,1
+98,2025-01-01,Colombia,Cartagena,Ecommerce,52,Hogar,2415356,1560536,854820,4
+99,2025-01-01,Colombia,Cartagena,App Móvil,59,Hogar,2173778,1048283,1125495,1
+100,2025-01-01,Colombia,Cartagena,App Móvil,37,Oficina,1917447,894742,1022705,5
+101,2025-01-01,Colombia,Cartagena,Ecommerce,28,Hogar,2709009,1890034,818975,1
+102,2025-01-01,Colombia,Cartagena,App Móvil,60,Tecnologia,923108,506035,417073,1
+103,2025-01-01,Colombia,Cartagena,Ecommerce,66,Hogar,1109173,822928,286245,5
+104,2025-01-01,Colombia,Cartagena,App Móvil,58,Tecnologia,2699329,1537595,1161734,3
+105,2025-01-01,Colombia,Cartagena,Tienda Física,19,Hogar,764400,424381,340019,4
+106,2025-01-01,Colombia,Cartagena,Tienda Física,34,Hogar,2471470,1664971,806499,4
+107,2025-01-01,Colombia,Cartagena,Ecommerce,43,Hogar,567528,248173,319355,2
+108,2025-01-01,Colombia,Cartagena,Tienda Física,26,Oficina,689061,428084,260977,4
+109,2025-01-01,Colombia,Cartagena,Ecommerce,61,Oficina,2443153,1913965,529188,3
+110,2025-01-01,Colombia,Cartagena,Ecommerce,67,Tecnologia,2573366,1866444,706922,1
+111,2025-01-01,Colombia,Cartagena,Tienda Física,60,Tecnologia,2204517,1156878,1047639,1
+112,2025-01-01,Colombia,Cartagena,Ecommerce,55,Tecnologia,377774,171767,206007,3
+113,2025-01-01,Colombia,Cartagena,Tienda Física,19,Hogar,1435504,957961,477543,2
+114,2025-01-01,Colombia,Cartagena,Ecommerce,21,Tecnologia,1434959,964649,470310,5
+115,2025-01-01,Colombia,Cartagena,App Móvil,50,Oficina,2095145,1472565,622580,3
+116,2025-01-01,Colombia,Cartagena,Tienda Física,28,Hogar,800486,394874,405612,5
+117,2025-01-01,Colombia,Cartagena,Ecommerce,22,Tecnologia,1757998,739771,1018227,5
+118,2025-01-01,Colombia,Cartagena,App Móvil,41,Hogar,624008,332528,291480,1
+119,2025-01-01,Colombia,Cartagena,App Móvil,27,Oficina,1959124,1553056,406068,3
+120,2025-01-01,Colombia,Cartagena,App Móvil,44,Tecnologia,2140526,1449689,690837,3
+121,2025-01-01,Colombia,Cartagena,Tienda Física,43,Tecnologia,2946863,2120865,825998,3
+122,2025-01-01,Colombia,Cartagena,Ecommerce,39,Tecnologia,632218,320416,311802,4
+123,2025-01-01,Colombia,Cartagena,Ecommerce,68,Oficina,1871880,1331732,540148,4
+124,2025-01-01,Colombia,Cartagena,Ecommerce,60,Hogar,620777,367050,253727,2
+125,2025-01-01,Colombia,Cartagena,App Móvil,38,Oficina,1473737,961515,512222,1
+126,2025-01-01,Colombia,Cartagena,App Móvil,22,Tecnologia,765746,344907,420839,5
+127,2025-01-01,Colombia,Cartagena,Tienda Física,39,Hogar,1410855,742359,668496,2
+128,2025-01-01,Colombia,Cartagena,App Móvil,27,Oficina,1682238,1012121,670117,5
+129,2025-01-01,Colombia,Cartagena,App Móvil,53,Tecnologia,55814,32233,23581,3
+130,2025-01-01,Colombia,Cartagena,App Móvil,60,Hogar,2103423,1373274,730149,3
+131,2025-01-01,Colombia,Cartagena,Ecommerce,47,Oficina,329406,141953,187453,5
+132,2025-01-01,Colombia,Cartagena,Tienda Física,65,Tecnologia,447722,230715,217007,3
+133,2025-01-01,Colombia,Cartagena,Ecommerce,50,Hogar,1427264,878123,549141,5
+134,2025-01-01,Colombia,Cartagena,App Móvil,45,Oficina,1677788,1246002,431786,2
+135,2025-01-01,Colombia,Cartagena,Ecommerce,33,Hogar,612807,395327,217480,2
+136,2025-01-01,Colombia,Cartagena,App Móvil,20,Hogar,1417610,901693,515917,1
+137,2025-01-01,Colombia,Cartagena,App Móvil,64,Tecnologia,423942,326509,97433,5
+138,2025-01-01,Colombia,Cartagena,Tienda Física,19,Oficina,1984205,1362868,621337,1
+139,2025-01-01,Colombia,Cartagena,App Móvil,28,Hogar,1048220,516049,532171,5
+140,2025-01-01,Colombia,Cartagena,Ecommerce,39,Hogar,830170,548006,282164,5
+141,2025-01-01,Colombia,Cartagena,App Móvil,57,Hogar,98549,52052,46497,3
+142,2025-01-01,Colombia,Cartagena,App Móvil,37,Tecnologia,1099712,505273,594439,5
+143,2025-01-01,Colombia,Cartagena,Tienda Física,48,Tecnologia,1739064,994579,744485,5
+144,2025-01-01,Colombia,Cartagena,Ecommerce,21,Tecnologia,2372721,1213602,1159119,5
+145,2025-01-01,Colombia,Cartagena,App Móvil,60,Hogar,358288,226660,131628,4
+146,2025-01-01,Colombia,Cartagena,Tienda Física,24,Tecnologia,2028738,1037100,991638,3
+147,2025-01-01,Colombia,Cartagena,Ecommerce,27,Oficina,2014014,1249533,764481,5
+148,2025-01-01,Colombia,Cartagena,Tienda Física,64,Hogar,1040755,418074,622681,5
+149,2025-01-01,Colombia,Cartagena,App Móvil,49,Oficina,410606,321602,89004,5
+150,2025-01-01,Colombia,Cartagena,Tienda Física,59,Hogar,835395,625863,209532,4
+151,2025-01-01,Colombia,Cartagena,Tienda Física,65,Oficina,1660408,1081639,578769,3
+152,2025-01-01,Colombia,Cartagena,Ecommerce,50,Oficina,265373,124672,140701,2
+153,2025-01-01,Colombia,Cartagena,Ecommerce,54,Oficina,2650258,1629027,1021231,5
+154,2025-01-01,Colombia,Cartagena,Ecommerce,30,Tecnologia,1960726,1081997,878729,5
+155,2025-01-01,Colombia,Cartagena,Tienda Física,39,Oficina,2106204,1136754,969450,3
+156,2025-01-01,Colombia,Cartagena,Ecommerce,26,Tecnologia,358690,224145,134545,2
+157,2025-01-01,Colombia,Cartagena,App Móvil,66,Hogar,896416,485412,411004,2
+158,2025-01-01,Colombia,Cartagena,App Móvil,23,Hogar,2579799,1965838,613961,5
+159,2025-01-01,Colombia,Cartagena,Ecommerce,34,Oficina,575245,397396,177849,5
+160,2025-01-01,Colombia,Cartagena,Tienda Física,33,Hogar,2433364,1716980,716384,1
+161,2025-01-01,Colombia,Cartagena,Ecommerce,18,Tecnologia,1327131,715755,611376,1
+162,2025-01-01,Colombia,Cartagena,Tienda Física,24,Oficina,2954353,2177957,776396,4
+163,2025-01-01,Colombia,Cartagena,Tienda Física,35,Hogar,122795,63066,59729,1
+164,2025-01-01,Colombia,Cartagena,Ecommerce,47,Hogar,502174,320164,182010,4
+165,2025-01-01,Colombia,Cartagena,Tienda Física,39,Oficina,1752728,713501,1039227,3
+166,2025-01-01,Colombia,Cartagena,Ecommerce,33,Hogar,990861,728399,262462,1
+167,2025-01-01,Colombia,Cartagena,Ecommerce,25,Hogar,582903,275171,307732,4
+168,2025-01-01,Colombia,Cartagena,App Móvil,64,Oficina,215484,113635,101849,5
+169,2025-01-01,Colombia,Cartagena,App Móvil,22,Oficina,1299762,792088,507674,3
+170,2025-01-01,Colombia,Cartagena,Ecommerce,54,Tecnologia,475529,228935,246594,1
+171,2025-01-01,Colombia,Cartagena,Ecommerce,18,Tecnologia,2735016,1506889,1228127,1
+172,2025-01-01,Colombia,Cartagena,App Móvil,29,Tecnologia,482252,200911,281341,3
+173,2025-01-01,Colombia,Cartagena,App Móvil,30,Hogar,806008,552351,253657,4
+174,2025-01-01,Colombia,Cartagena,Ecommerce,48,Oficina,2318469,1202644,1115825,3
+175,2025-01-01,Colombia,Cartagena,Tienda Física,58,Oficina,1012054,703583,308471,1
+176,2025-01-01,Colombia,Cartagena,Tienda Física,65,Hogar,1839534,787336,1052198,2
+177,2025-01-01,Colombia,Cartagena,Ecommerce,40,Oficina,721035,517813,203222,2
+178,2025-01-01,Colombia,Cartagena,Tienda Física,57,Oficina,658703,414383,244320,1
+179,2025-01-01,Colombia,Cartagena,Ecommerce,48,Oficina,2568888,1296821,1272067,3
+180,2025-01-01,Colombia,Cartagena,Ecommerce,69,Oficina,514418,372755,141663,4
+181,2025-01-01,Colombia,Cartagena,Tienda Física,64,Hogar,1362141,979528,382613,3
+182,2025-01-01,Colombia,Cartagena,Tienda Física,44,Oficina,2074427,848199,1226228,3
+183,2025-01-01,Colombia,Cartagena,Tienda Física,60,Hogar,2923233,1534126,1389107,4
+184,2025-01-01,Colombia,Cartagena,Tienda Física,45,Tecnologia,574251,237346,336905,3
+185,2025-01-01,Colombia,Cartagena,Tienda Física,55,Oficina,2413158,1358488,1054670,4
+186,2025-01-01,Colombia,Cartagena,Tienda Física,47,Tecnologia,2198808,1110332,1088476,1
+187,2025-01-01,Colombia,Cartagena,Tienda Física,65,Tecnologia,1933389,1268421,664968,3
+188,2025-01-01,Colombia,Cartagena,Ecommerce,29,Oficina,2366798,1258212,1108586,3
+189,2025-01-01,Colombia,Cartagena,App Móvil,29,Tecnologia,2317271,1575230,742041,5
+190,2025-01-01,Colombia,Cartagena,Tienda Física,56,Hogar,260231,110311,149920,1
+191,2025-01-01,Colombia,Cartagena,Tienda Física,62,Tecnologia,1568133,885192,682941,2
+192,2025-01-01,Colombia,Cartagena,Ecommerce,31,Oficina,163360,85195,78165,3
+193,2025-01-01,Colombia,Cartagena,Ecommerce,40,Tecnologia,718231,407282,310949,1
+194,2025-01-01,Colombia,Cartagena,Tienda Física,34,Hogar,334632,155611,179021,5
+195,2025-01-01,Colombia,Cartagena,App Móvil,41,Hogar,2122365,1626055,496310,1
+196,2025-01-01,Colombia,Cartagena,Tienda Física,33,Oficina,2483066,1169758,1313308,5
+197,2025-01-01,Colombia,Cartagena,Ecommerce,58,Oficina,269514,133984,135530,3
+198,2025-01-01,Colombia,Cartagena,App Móvil,32,Hogar,416823,272505,144318,3
+199,2025-01-01,Colombia,Cartagena,Ecommerce,22,Oficina,356067,213680,142387,2
+200,2025-01-01,Colombia,Cartagena,Tienda Física,48,Tecnologia,888430,440680,447750,1
+201,2025-01-01,Colombia,Cartagena,Ecommerce,54,Tecnologia,1930527,1159030,771497,3
+202,2025-01-01,Colombia,Cartagena,App Móvil,63,Tecnologia,443657,278798,164859,5
+203,2025-01-01,Colombia,Cartagena,App Móvil,30,Oficina,1830089,1253855,576234,1
+204,2025-01-01,Colombia,Cartagena,App Móvil,54,Tecnologia,285323,216218,69105,5
+205,2025-01-01,Colombia,Cartagena,Ecommerce,22,Oficina,1843920,813619,1030301,4
+206,2025-01-01,Colombia,Cartagena,App Móvil,52,Tecnologia,2118416,1189673,928743,2
+207,2025-01-01,Colombia,Cartagena,App Móvil,20,Oficina,595053,352096,242957,1
+208,2025-01-01,Colombia,Cartagena,App Móvil,67,Hogar,1181779,783106,398673,4
+209,2025-01-01,Colombia,Cartagena,App Móvil,63,Hogar,595240,442626,152614,4
+210,2025-01-01,Colombia,Cartagena,Ecommerce,61,Tecnologia,2630730,1573603,1057127,2
+211,2025-01-01,Colombia,Cartagena,App Móvil,45,Oficina,1339788,767400,572388,1
+212,2025-01-01,Colombia,Cartagena,Ecommerce,57,Tecnologia,2269044,1381552,887492,2
+213,2025-01-01,Colombia,Cartagena,Tienda Física,54,Tecnologia,2126013,894297,1231716,3
+214,2025-01-01,Colombia,Cartagena,App Móvil,53,Hogar,2930952,1192590,1738362,2
+215,2025-01-01,Colombia,Cartagena,Ecommerce,37,Hogar,779410,609256,170154,4
+216,2025-01-01,Colombia,Cartagena,Tienda Física,55,Hogar,2578645,1763204,815441,2
+217,2025-01-01,Colombia,Cartagena,App Móvil,18,Tecnologia,1682011,762556,919455,3
+218,2025-01-01,Colombia,Cartagena,App Móvil,65,Oficina,758590,436068,322522,3
+219,2025-01-01,Colombia,Cartagena,App Móvil,47,Tecnologia,1773771,1138877,634894,3
+220,2025-01-01,Colombia,Cartagena,App Móvil,50,Hogar,2837569,1203909,1633660,4
+221,2025-01-01,Colombia,Cartagena,App Móvil,66,Hogar,79898,58373,21525,5
+222,2025-01-01,Colombia,Cartagena,Tienda Física,52,Hogar,1673061,1076762,596299,5
+223,2025-01-01,Colombia,Cartagena,Tienda Física,61,Tecnologia,2906032,1651960,1254072,5
+224,2025-01-01,Colombia,Cartagena,Tienda Física,62,Oficina,2185260,1031461,1153799,5
+225,2025-01-01,Colombia,Cartagena,Ecommerce,62,Hogar,376442,178782,197660,5
+226,2025-01-01,Colombia,Cartagena,Ecommerce,56,Tecnologia,1351730,554284,797446,1
+227,2025-01-01,Colombia,Cartagena,App Móvil,57,Hogar,2528218,1674851,853367,3
+228,2025-01-01,Colombia,Cartagena,Tienda Física,44,Tecnologia,2543383,1223531,1319852,2
+229,2025-01-01,Colombia,Cartagena,App Móvil,46,Hogar,551120,395440,155680,3
+230,2025-01-01,Colombia,Cartagena,Tienda Física,59,Tecnologia,2696307,1368147,1328160,3
+231,2025-01-01,Colombia,Cartagena,App Móvil,68,Oficina,2839699,1490733,1348966,5
+232,2025-01-01,Colombia,Cartagena,Tienda Física,44,Oficina,415560,183230,232330,4
+233,2025-01-01,Colombia,Cartagena,Tienda Física,57,Oficina,63979,41824,22155,2
+234,2025-01-01,Colombia,Cartagena,Tienda Física,27,Oficina,315564,195570,119994,3
+235,2025-01-01,Colombia,Cartagena,Tienda Física,52,Tecnologia,214647,153565,61082,2
+236,2025-01-01,Colombia,Cartagena,App Móvil,60,Oficina,2596404,1127814,1468590,2
+237,2025-01-01,Colombia,Cartagena,App Móvil,30,Hogar,638495,470757,167738,1
+238,2025-01-01,Colombia,Cartagena,Ecommerce,66,Hogar,1570107,807887,762220,4
+239,2025-01-01,Colombia,Cartagena,App Móvil,54,Oficina,1034631,472837,561794,4
+240,2025-01-01,Colombia,Cartagena,App Móvil,51,Tecnologia,2131494,1677246,454248,2
+241,2025-01-01,Colombia,Cartagena,Tienda Física,33,Oficina,2784585,1615899,1168686,4
+242,2025-01-01,Colombia,Cartagena,Tienda Física,48,Hogar,435133,286045,149088,5
+243,2025-01-01,Colombia,Cartagena,Ecommerce,54,Hogar,966256,425982,540274,5
+244,2025-01-01,Colombia,Cartagena,App Móvil,62,Hogar,125618,94433,31185,2
+245,2025-01-01,Colombia,Cartagena,Ecommerce,57,Hogar,1032488,578290,454198,2
+246,2025-01-01,Colombia,Cartagena,App Móvil,46,Oficina,1520767,847035,673732,1
+247,2025-01-01,Colombia,Cartagena,Ecommerce,23,Tecnologia,591983,301580,290403,4
+248,2025-01-01,Colombia,Cartagena,App Móvil,40,Oficina,2095478,889958,1205520,1
+249,2025-01-01,Colombia,Cartagena,App Móvil,52,Hogar,2410680,1300495,1110185,1
+250,2025-01-01,Colombia,Cartagena,Tienda Física,33,Tecnologia,2244863,905915,1338948,2
+251,2025-01-01,Colombia,Cartagena,Tienda Física,56,Tecnologia,256067,167515,88552,5
+252,2025-01-01,Colombia,Cartagena,Tienda Física,26,Oficina,1082524,699755,382769,3
+253,2025-01-01,Colombia,Cartagena,Tienda Física,57,Oficina,1439019,1049386,389633,2
+254,2025-01-01,Colombia,Cartagena,Tienda Física,56,Hogar,743998,535848,208150,5
+255,2025-01-01,Colombia,Cartagena,Ecommerce,54,Oficina,126734,100631,26103,2
+256,2025-01-01,Colombia,Cartagena,Ecommerce,62,Oficina,58233,45730,12503,3
+257,2025-01-01,Colombia,Cartagena,Ecommerce,61,Hogar,87461,37536,49925,3
+258,2025-01-01,Colombia,Cartagena,Ecommerce,60,Hogar,638383,428777,209606,4
+259,2025-01-01,Colombia,Cartagena,Tienda Física,55,Oficina,951743,501582,450161,4
+260,2025-01-01,Colombia,Cartagena,App Móvil,41,Hogar,2359445,1809222,550223,2
+261,2025-01-01,Colombia,Cartagena,App Móvil,64,Hogar,163078,88524,74554,5
+262,2025-01-01,Colombia,Cartagena,Ecommerce,35,Oficina,2989325,2310913,678412,5
+263,2025-01-01,Colombia,Cartagena,App Móvil,25,Oficina,2897341,1729758,1167583,1
+264,2025-01-01,Colombia,Cartagena,Tienda Física,64,Tecnologia,393324,177467,215857,3
+265,2025-01-01,Colombia,Cartagena,App Móvil,52,Hogar,2419444,1501268,918176,3
+266,2025-01-01,Colombia,Cartagena,App Móvil,68,Hogar,2153675,1056116,1097559,4
+267,2025-01-01,Colombia,Cartagena,Tienda Física,69,Oficina,477242,287146,190096,1
+268,2025-01-01,Colombia,Cartagena,Ecommerce,33,Tecnologia,2776224,2028380,747844,2
+269,2025-01-01,Colombia,Cartagena,Tienda Física,58,Tecnologia,461859,255118,206741,1
+270,2025-01-01,Colombia,Cartagena,App Móvil,65,Oficina,1652308,966529,685779,2
+271,2025-01-01,Colombia,Cartagena,Tienda Física,24,Tecnologia,907623,714845,192778,3
+272,2025-01-01,Colombia,Cartagena,Tienda Física,67,Tecnologia,360653,230908,129745,4
+273,2025-01-01,Colombia,Cartagena,Ecommerce,36,Oficina,1670380,896620,773760,4
+274,2025-01-01,Colombia,Cartagena,Tienda Física,37,Hogar,715742,301979,413763,5
+275,2025-01-01,Colombia,Cartagena,App Móvil,59,Oficina,386809,160658,226151,5
+276,2025-01-01,Colombia,Cartagena,Tienda Física,27,Hogar,55942,30142,25800,4
+277,2025-01-01,Colombia,Cartagena,App Móvil,53,Oficina,105431,73612,31819,4
+278,2025-01-01,Colombia,Cartagena,App Móvil,62,Tecnologia,1757209,1400149,357060,2
+279,2025-01-01,Colombia,Cartagena,Tienda Física,29,Oficina,2002044,1198024,804020,3
+280,2025-01-01,Colombia,Cartagena,Ecommerce,31,Tecnologia,2207619,1053823,1153796,1
+281,2025-01-01,Colombia,Cartagena,Ecommerce,18,Hogar,208393,144234,64159,1
+282,2025-01-01,Colombia,Cartagena,App Móvil,18,Tecnologia,1586747,1242661,344086,3
+283,2025-01-01,Colombia,Cartagena,Ecommerce,22,Hogar,1175017,492404,682613,2
+284,2025-01-01,Colombia,Cartagena,App Móvil,45,Hogar,912076,614572,297504,1
+285,2025-01-01,Colombia,Cartagena,App Móvil,60,Hogar,1366598,616256,750342,4
+286,2025-01-01,Colombia,Cartagena,Ecommerce,59,Tecnologia,1906927,1054578,852349,4
+287,2025-01-01,Colombia,Cartagena,Tienda Física,69,Tecnologia,2884913,2161874,723039,3
+288,2025-01-01,Colombia,Cartagena,App Móvil,45,Oficina,1703081,1352129,350952,2
+289,2025-01-01,Colombia,Cartagena,App Móvil,41,Oficina,857526,547919,309607,3
+290,2025-01-01,Colombia,Cartagena,Ecommerce,28,Tecnologia,2513946,1714125,799821,3
+291,2025-01-01,Colombia,Cartagena,Tienda Física,46,Oficina,878898,501978,376920,5
+292,2025-01-01,Colombia,Cartagena,Ecommerce,18,Tecnologia,372020,155137,216883,1
+293,2025-01-01,Colombia,Cartagena,Ecommerce,36,Hogar,2210971,1543246,667725,4
+294,2025-01-01,Colombia,Cartagena,Ecommerce,52,Oficina,1207944,773258,434686,5
+295,2025-01-01,Colombia,Cartagena,Tienda Física,25,Hogar,1893758,821091,1072667,1
+296,2025-01-01,Colombia,Cartagena,App Móvil,59,Tecnologia,1620400,904256,716144,2
+297,2025-01-01,Colombia,Cartagena,App Móvil,32,Oficina,1382527,1045840,336687,4
+298,2025-01-01,Colombia,Cartagena,App Móvil,35,Tecnologia,2321631,1158529,1163102,5
+299,2025-01-01,Colombia,Cartagena,Ecommerce,47,Hogar,2059722,1451163,608559,4
+300,2025-01-01,Colombia,Cartagena,Ecommerce,42,Tecnologia,2552503,1554227,998276,1
+301,2025-01-01,Colombia,Cartagena,App Móvil,51,Tecnologia,361092,277077,84015,5
+302,2025-01-01,Colombia,Cartagena,Tienda Física,67,Oficina,1894821,1423606,471215,2
+303,2025-01-01,Colombia,Cartagena,App Móvil,55,Oficina,964240,759477,204763,5
+304,2025-01-01,Colombia,Cartagena,Ecommerce,67,Hogar,2851866,2034712,817154,4
+305,2025-01-01,Colombia,Cartagena,App Móvil,64,Hogar,2794751,1629682,1165069,4
+306,2025-01-01,Colombia,Cartagena,App Móvil,40,Oficina,1349113,847587,501526,4
+307,2025-01-01,Colombia,Cartagena,Tienda Física,70,Hogar,382872,207668,175204,3
+308,2025-01-01,Colombia,Cartagena,Ecommerce,58,Hogar,1895119,1039697,855422,2
+309,2025-01-01,Colombia,Cartagena,Ecommerce,60,Tecnologia,1584283,637152,947131,1
+310,2025-01-01,Colombia,Cartagena,Tienda Física,59,Oficina,2336293,1075447,1260846,2
+311,2025-01-01,Colombia,Cartagena,Tienda Física,56,Hogar,1788290,1384142,404148,4
+312,2025-01-01,Colombia,Cartagena,App Móvil,50,Oficina,1447073,891601,555472,2
+313,2025-01-01,Colombia,Cartagena,Tienda Física,70,Tecnologia,1799788,1420513,379275,2
+314,2025-01-01,Colombia,Cartagena,Tienda Física,21,Tecnologia,1185692,522793,662899,2
+315,2025-01-01,Colombia,Cartagena,Ecommerce,57,Tecnologia,1524471,1001500,522971,5
+316,2025-01-01,Colombia,Cartagena,Ecommerce,65,Oficina,56888,43119,13769,2
+317,2025-01-01,Colombia,Cartagena,Tienda Física,22,Hogar,2241402,1591725,649677,1
+318,2025-01-01,Colombia,Cartagena,Ecommerce,23,Oficina,85067,44296,40771,5
+319,2025-01-01,Colombia,Cartagena,Ecommerce,19,Oficina,1205559,497580,707979,1
+320,2025-01-01,Colombia,Cartagena,Tienda Física,69,Oficina,209489,148228,61261,2
+321,2025-01-01,Colombia,Cartagena,Tienda Física,65,Tecnologia,1554327,1032706,521621,3
+322,2025-01-01,Colombia,Cartagena,App Móvil,66,Oficina,347711,256932,90779,1
+323,2025-01-01,Colombia,Cartagena,Tienda Física,18,Tecnologia,2201159,1276296,924863,5
+324,2025-01-01,Colombia,Cartagena,Ecommerce,36,Oficina,97555,51138,46417,4
+325,2025-01-01,Colombia,Cartagena,Ecommerce,53,Hogar,463374,238909,224465,4
+326,2025-01-01,Colombia,Cartagena,App Móvil,18,Hogar,380397,285909,94488,5
+327,2025-01-01,Colombia,Cartagena,Ecommerce,69,Tecnologia,718946,449973,268973,4
+328,2025-01-01,Colombia,Cartagena,Ecommerce,42,Hogar,1875296,761376,1113920,4
+329,2025-01-01,Colombia,Cartagena,Tienda Física,36,Oficina,769892,485421,284471,4
+330,2025-01-01,Colombia,Cartagena,Tienda Física,51,Tecnologia,829100,654753,174347,1
+331,2025-01-01,Colombia,Cartagena,Tienda Física,65,Tecnologia,2289751,1171882,1117869,5
+332,2025-01-01,Colombia,Cartagena,Tienda Física,67,Tecnologia,2330926,1322503,1008423,2
+333,2025-01-01,Colombia,Cartagena,App Móvil,29,Oficina,2154582,1298868,855714,5
+334,2025-01-01,Colombia,Cartagena,Ecommerce,36,Tecnologia,2587463,1654026,933437,3
+335,2025-01-01,Colombia,Cartagena,Tienda Física,26,Tecnologia,1821892,865449,956443,2
+336,2025-01-01,Colombia,Cartagena,App Móvil,50,Hogar,745897,550183,195714,2
+337,2025-01-01,Colombia,Cartagena,App Móvil,33,Oficina,1555204,1116023,439181,5
+338,2025-01-01,Colombia,Cartagena,Tienda Física,68,Tecnologia,2756906,1194872,1562034,5
+339,2025-01-01,Colombia,Cartagena,App Móvil,24,Hogar,2478387,1567570,910817,1
+340,2025-01-01,Colombia,Cartagena,Ecommerce,47,Tecnologia,74002,49448,24554,3
+341,2025-01-01,Colombia,Cartagena,Ecommerce,31,Tecnologia,2663998,2077893,586105,2
+342,2025-01-01,Colombia,Cartagena,Ecommerce,63,Hogar,1296471,1020933,275538,5
+343,2025-01-01,Colombia,Cartagena,Ecommerce,20,Tecnologia,2484436,1370885,1113551,3
+344,2025-01-01,Colombia,Cartagena,App Móvil,55,Hogar,2580107,1936007,644100,2
+345,2025-01-01,Colombia,Cartagena,App Móvil,36,Hogar,1381942,599671,782271,1
+346,2025-01-01,Colombia,Cartagena,Tienda Física,42,Oficina,591187,450076,141111,1
+347,2025-01-01,Colombia,Cartagena,Ecommerce,55,Oficina,823688,597286,226402,3
+348,2025-01-01,Colombia,Cartagena,App Móvil,28,Tecnologia,1152407,755798,396609,4
+349,2025-01-01,Colombia,Cartagena,App Móvil,60,Tecnologia,2861342,1652676,1208666,1
+350,2025-01-01,Colombia,Cartagena,Tienda Física,37,Tecnologia,207559,158028,49531,5
+351,2025-01-01,Colombia,Cartagena,Tienda Física,43,Hogar,416939,301808,115131,5
+352,2025-01-01,Colombia,Cartagena,Ecommerce,38,Hogar,2718794,1223350,1495444,1
+353,2025-01-01,Colombia,Cartagena,Ecommerce,29,Tecnologia,179516,138322,41194,5
+354,2025-01-01,Colombia,Cartagena,Ecommerce,24,Oficina,1556127,667563,888564,4
+355,2025-01-01,Colombia,Cartagena,Tienda Física,40,Hogar,2156028,1636202,519826,1
+356,2025-01-01,Colombia,Cartagena,App Móvil,58,Hogar,1356131,811830,544301,2
+357,2025-01-01,Colombia,Cartagena,App Móvil,57,Tecnologia,1803478,1224200,579278,5
+358,2025-01-01,Colombia,Cartagena,App Móvil,28,Hogar,1601214,1006814,594400,5
+359,2025-01-01,Colombia,Cartagena,App Móvil,64,Oficina,468342,194884,273458,2
+360,2025-01-01,Colombia,Cartagena,App Móvil,66,Tecnologia,1327862,874690,453172,3
+361,2025-01-01,Colombia,Cartagena,Tienda Física,37,Oficina,1534989,884256,650733,2
+362,2025-01-01,Colombia,Cartagena,App Móvil,52,Tecnologia,2641729,1874515,767214,3
+363,2025-01-01,Colombia,Cartagena,Ecommerce,57,Oficina,2803671,2124511,679160,2
+364,2025-01-01,Colombia,Cartagena,Ecommerce,58,Tecnologia,1215708,732404,483304,5
+365,2025-01-01,Colombia,Cartagena,App Móvil,43,Tecnologia,898864,440467,458397,4
+366,2025-01-01,Colombia,Cartagena,Ecommerce,52,Oficina,839886,516972,322914,4
+367,2025-01-01,Colombia,Cartagena,Tienda Física,29,Hogar,263359,106138,157221,1
+368,2025-01-01,Colombia,Cartagena,App Móvil,69,Oficina,443820,272581,171239,1
+369,2025-01-01,Colombia,Cartagena,App Móvil,67,Tecnologia,2026754,1510316,516438,1
+370,2025-01-01,Colombia,Cartagena,Ecommerce,23,Oficina,1942364,1106592,835772,3
+371,2025-01-01,Colombia,Cartagena,App Móvil,41,Hogar,2038333,1140016,898317,1
+372,2025-01-01,Colombia,Cartagena,Ecommerce,46,Hogar,1436871,763480,673391,5
+373,2025-01-01,Colombia,Cartagena,Ecommerce,47,Hogar,680107,479361,200746,1
+374,2025-01-01,Colombia,Cartagena,App Móvil,54,Tecnologia,2358134,951387,1406747,2
+375,2025-01-01,Colombia,Cartagena,Ecommerce,54,Tecnologia,1202954,728284,474670,4
+376,2025-01-01,Colombia,Cartagena,Tienda Física,31,Tecnologia,1368617,717198,651419,2
+377,2025-01-01,Colombia,Cartagena,Tienda Física,68,Oficina,1462722,657631,805091,3
+378,2025-01-01,Colombia,Cartagena,Ecommerce,41,Oficina,616496,362898,253598,4
+379,2025-01-01,Colombia,Cartagena,Tienda Física,69,Oficina,586236,394319,191917,3
+380,2025-01-01,Colombia,Cartagena,Tienda Física,32,Hogar,438821,341898,96923,1
+381,2025-01-01,Colombia,Cartagena,Tienda Física,31,Hogar,246072,167777,78295,1
+382,2025-01-01,Colombia,Cartagena,Ecommerce,58,Tecnologia,1198498,834921,363577,2
+383,2025-01-01,Colombia,Cartagena,Ecommerce,25,Hogar,1878023,1341477,536546,2
+384,2025-01-01,Colombia,Cartagena,Ecommerce,64,Hogar,1260068,644435,615633,5
+385,2025-01-01,Colombia,Cartagena,Ecommerce,25,Oficina,2587978,1452767,1135211,3
+386,2025-01-01,Colombia,Cartagena,Tienda Física,39,Tecnologia,1520099,767250,752849,2
+387,2025-01-01,Colombia,Cartagena,Tienda Física,33,Oficina,256351,160329,96022,2
+388,2025-01-01,Colombia,Cartagena,Ecommerce,22,Hogar,2228006,1124244,1103762,3
+389,2025-01-01,Colombia,Cartagena,App Móvil,32,Hogar,966567,587146,379421,3
+390,2025-01-01,Colombia,Cartagena,Tienda Física,48,Tecnologia,1406237,1091406,314831,5
+391,2025-01-01,Colombia,Cartagena,Tienda Física,46,Oficina,2863317,2211504,651813,2
+392,2025-01-01,Colombia,Cartagena,Tienda Física,43,Tecnologia,1993431,808881,1184550,4
+393,2025-01-01,Colombia,Cartagena,App Móvil,68,Tecnologia,2294884,1342684,952200,4
+394,2025-01-01,Colombia,Cartagena,Tienda Física,36,Oficina,100173,59347,40826,4
+395,2025-01-01,Colombia,Cartagena,Ecommerce,63,Tecnologia,2146871,1665425,481446,1
+396,2025-01-01,Colombia,Cartagena,App Móvil,58,Oficina,829372,430200,399172,5
+397,2025-01-01,Colombia,Cartagena,Tienda Física,42,Oficina,1091678,649581,442097,5
+398,2025-01-01,Colombia,Cartagena,Tienda Física,36,Tecnologia,2309929,1733451,576478,2
+399,2025-01-01,Colombia,Cartagena,Tienda Física,21,Oficina,698494,398957,299537,4
+400,2025-01-01,Colombia,Cartagena,App Móvil,48,Hogar,249924,103074,146850,4
+401,2025-01-01,Colombia,Cartagena,Tienda Física,49,Hogar,1426443,894079,532364,5
+402,2025-01-01,Colombia,Cartagena,Tienda Física,63,Oficina,1780756,1319231,461525,3
+403,2025-01-01,Colombia,Cartagena,App Móvil,53,Oficina,2743908,1855724,888184,2
+404,2025-01-01,Colombia,Cartagena,App Móvil,35,Hogar,2226975,1625830,601145,5
+405,2025-01-01,Colombia,Cartagena,Ecommerce,53,Tecnologia,2262069,960555,1301514,5
+406,2025-01-01,Colombia,Cartagena,Ecommerce,52,Oficina,865041,659172,205869,4
+407,2025-01-01,Colombia,Cartagena,Ecommerce,41,Hogar,2128770,1417110,711660,3
+408,2025-01-01,Colombia,Cartagena,Tienda Física,59,Tecnologia,648679,300729,347950,1
+409,2025-01-01,Colombia,Cartagena,App Móvil,20,Tecnologia,444711,244048,200663,1
+410,2025-01-01,Colombia,Cartagena,Ecommerce,66,Oficina,2455016,1773749,681267,3
+411,2025-01-01,Colombia,Cartagena,App Móvil,51,Hogar,502916,264385,238531,1
+412,2025-01-01,Colombia,Cartagena,Ecommerce,51,Hogar,2723814,1405931,1317883,3
+413,2025-01-01,Colombia,Cartagena,Ecommerce,24,Tecnologia,2490742,1091290,1399452,3
+414,2025-01-01,Colombia,Cartagena,Ecommerce,35,Oficina,467556,217008,250548,5
+415,2025-01-01,Colombia,Cartagena,Ecommerce,53,Hogar,2210456,1048587,1161869,1
+416,2025-01-01,Colombia,Cartagena,Ecommerce,21,Oficina,89495,41963,47532,2
+417,2025-01-01,Colombia,Cartagena,Tienda Física,18,Oficina,583226,339206,244020,1
+418,2025-01-01,Colombia,Cartagena,Ecommerce,45,Tecnologia,1244302,928150,316152,2
+419,2025-01-01,Colombia,Cartagena,App Móvil,25,Hogar,720287,484900,235387,2
+420,2025-01-01,Colombia,Cartagena,Tienda Física,31,Tecnologia,1207560,606519,601041,3
+421,2025-01-01,Colombia,Cartagena,App Móvil,27,Oficina,1077473,849737,227736,2
+422,2025-01-01,Colombia,Cartagena,Tienda Física,28,Tecnologia,2327387,1472946,854441,4
+423,2025-01-01,Colombia,Cartagena,App Móvil,52,Hogar,1577969,773218,804751,4
+424,2025-01-01,Colombia,Cartagena,Tienda Física,41,Oficina,2335518,1010201,1325317,1
+425,2025-01-01,Colombia,Cartagena,Tienda Física,55,Oficina,1177071,581474,595597,2
+426,2025-01-01,Colombia,Cartagena,App Móvil,48,Oficina,376892,235847,141045,4
+427,2025-01-01,Colombia,Cartagena,Ecommerce,26,Tecnologia,586586,349085,237501,2
+428,2025-01-01,Colombia,Cartagena,Tienda Física,40,Oficina,1346145,889041,457104,2
+429,2025-01-01,Colombia,Cartagena,App Móvil,54,Tecnologia,2781643,1844281,937362,5
+430,2025-01-01,Colombia,Cartagena,Tienda Física,64,Oficina,1627891,1173412,454479,3
+431,2025-01-01,Colombia,Cartagena,Tienda Física,59,Hogar,2368783,979547,1389236,5
+432,2025-01-01,Colombia,Cartagena,App Móvil,62,Tecnologia,1668627,853801,814826,3
+433,2025-01-01,Colombia,Cartagena,Tienda Física,30,Tecnologia,2903160,2192539,710621,2
+434,2025-01-01,Colombia,Cartagena,App Móvil,26,Hogar,2986111,1530325,1455786,2
+435,2025-01-01,Colombia,Cartagena,Tienda Física,58,Oficina,655768,412754,243014,5
+436,2025-01-01,Colombia,Cartagena,Ecommerce,23,Tecnologia,1493486,1162427,331059,3
+437,2025-01-01,Colombia,Cartagena,Ecommerce,68,Hogar,813581,357672,455909,4
+438,2025-01-01,Colombia,Cartagena,Ecommerce,38,Hogar,716361,288935,427426,3
+439,2025-01-01,Colombia,Cartagena,App Móvil,42,Hogar,2091233,1206552,884681,2
+440,2025-01-01,Colombia,Cartagena,Ecommerce,30,Tecnologia,241914,189849,52065,5
+441,2025-01-01,Colombia,Cartagena,App Móvil,18,Tecnologia,2276850,1179110,1097740,3
+442,2025-01-01,Colombia,Cartagena,Ecommerce,42,Tecnologia,551474,282971,268503,4
+443,2025-01-01,Colombia,Cartagena,App Móvil,25,Hogar,989957,768110,221847,1
+444,2025-01-01,Colombia,Cartagena,Ecommerce,31,Tecnologia,2048299,1146697,901602,5
+445,2025-01-01,Colombia,Cartagena,Tienda Física,26,Tecnologia,501145,270627,230518,1
+446,2025-01-01,Colombia,Cartagena,App Móvil,54,Tecnologia,283745,142867,140878,3
+447,2025-01-01,Colombia,Cartagena,Ecommerce,26,Hogar,680929,278994,401935,2
+448,2025-01-01,Colombia,Cartagena,Tienda Física,38,Hogar,568850,422146,146704,1
+449,2025-01-01,Colombia,Cartagena,App Móvil,57,Hogar,1621004,1160104,460900,5
+450,2025-01-01,Colombia,Cartagena,Tienda Física,27,Hogar,1311656,1017865,293791,3
+451,2025-01-01,Colombia,Cartagena,Ecommerce,29,Tecnologia,978073,651783,326290,3
+452,2025-01-01,Colombia,Cartagena,App Móvil,55,Hogar,1257492,990845,266647,3
+453,2025-01-01,Colombia,Cartagena,Tienda Física,67,Tecnologia,2450896,1599785,851111,2
+454,2025-01-01,Colombia,Cartagena,Tienda Física,37,Tecnologia,2758125,1562946,1195179,2
+455,2025-01-01,Colombia,Cartagena,App Móvil,31,Oficina,2236935,921660,1315275,4
+456,2025-01-01,Colombia,Cartagena,Tienda Física,18,Tecnologia,1751423,951258,800165,4
+457,2025-01-01,Colombia,Cartagena,Tienda Física,40,Tecnologia,640040,382341,257699,4
+458,2025-01-01,Colombia,Cartagena,Ecommerce,38,Oficina,1984284,1343332,640952,4
+459,2025-01-01,Colombia,Cartagena,Tienda Física,29,Oficina,1225758,766572,459186,5
+460,2025-01-01,Colombia,Cartagena,App Móvil,20,Oficina,2129857,924142,1205715,3
+461,2025-01-01,Colombia,Cartagena,App Móvil,43,Oficina,1533878,649647,884231,1
+462,2025-01-01,Colombia,Cartagena,App Móvil,19,Oficina,386420,174114,212306,2
+463,2025-01-01,Colombia,Cartagena,Ecommerce,33,Hogar,783616,456116,327500,4
+464,2025-01-01,Colombia,Cartagena,Tienda Física,36,Oficina,327772,215262,112510,3
+465,2025-01-01,Colombia,Cartagena,Ecommerce,56,Hogar,1463568,969062,494506,2
+466,2025-01-01,Colombia,Cartagena,Ecommerce,64,Hogar,2055081,1112636,942445,5
+467,2025-01-01,Colombia,Cartagena,App Móvil,23,Hogar,66821,49921,16900,2
+468,2025-01-01,Colombia,Cartagena,App Móvil,55,Oficina,313996,145894,168102,5
+469,2025-01-01,Colombia,Cartagena,Tienda Física,21,Oficina,154953,119051,35902,5
+470,2025-01-01,Colombia,Cartagena,Tienda Física,27,Tecnologia,1032047,600560,431487,5
+471,2025-01-01,Colombia,Cartagena,Ecommerce,24,Oficina,2855418,1918621,936797,4
+472,2025-01-01,Colombia,Cartagena,Ecommerce,27,Tecnologia,2931343,1633296,1298047,3
+473,2025-01-01,Colombia,Cartagena,Tienda Física,69,Oficina,995477,500092,495385,5
+474,2025-01-01,Colombia,Cartagena,App Móvil,37,Hogar,2806009,2077979,728030,2
+475,2025-01-01,Colombia,Cartagena,Tienda Física,28,Tecnologia,2529065,1567574,961491,3
+476,2025-01-01,Colombia,Cartagena,App Móvil,45,Hogar,743388,441477,301911,3
+477,2025-01-01,Colombia,Cartagena,App Móvil,43,Oficina,438912,316147,122765,4
+478,2025-01-01,Colombia,Cartagena,Tienda Física,30,Hogar,2625578,1612261,1013317,2
+479,2025-01-01,Colombia,Cartagena,App Móvil,48,Hogar,490553,296623,193930,4
+480,2025-01-01,Colombia,Cartagena,Ecommerce,29,Tecnologia,352767,183133,169634,2
+481,2025-01-01,Colombia,Cartagena,Ecommerce,38,Hogar,802218,431810,370408,5
+482,2025-01-01,Colombia,Cartagena,App Móvil,57,Tecnologia,282683,138566,144117,3
+483,2025-01-01,Colombia,Cartagena,Ecommerce,32,Hogar,1287489,1014823,272666,2
+484,2025-01-01,Colombia,Cartagena,Ecommerce,67,Oficina,626189,431746,194443,4
+485,2025-01-01,Colombia,Cartagena,App Móvil,63,Hogar,680154,335099,345055,2
+486,2025-01-01,Colombia,Cartagena,Ecommerce,49,Oficina,1170798,882257,288541,3
+487,2025-01-01,Colombia,Cartagena,Tienda Física,60,Tecnologia,2611764,1632061,979703,3
+488,2025-01-01,Colombia,Cartagena,Ecommerce,67,Tecnologia,1390353,1084099,306254,1
+489,2025-01-01,Colombia,Cartagena,Ecommerce,51,Tecnologia,476952,265964,210988,2
+490,2025-01-01,Colombia,Cartagena,Ecommerce,50,Hogar,235745,153635,82110,3
+491,2025-01-01,Colombia,Cartagena,Tienda Física,56,Oficina,2438724,1513607,925117,4
+492,2025-01-01,Colombia,Cartagena,Tienda Física,65,Hogar,2709372,1784086,925286,2
+493,2025-01-01,Colombia,Cartagena,Ecommerce,29,Oficina,1632615,911256,721359,2
+494,2025-01-01,Colombia,Cartagena,Ecommerce,66,Hogar,1998696,982874,1015822,4
+495,2025-01-01,Colombia,Cartagena,Tienda Física,22,Hogar,1117970,538777,579193,1
+496,2025-01-01,Colombia,Cartagena,App Móvil,25,Tecnologia,2767375,1566258,1201117,5
+497,2025-01-01,Colombia,Cartagena,Tienda Física,46,Tecnologia,1825171,799716,1025455,2
+498,2025-01-01,Colombia,Cartagena,App Móvil,44,Hogar,223505,177846,45659,5
+499,2025-01-01,Colombia,Cartagena,App Móvil,28,Tecnologia,2408834,1047348,1361486,1
+500,2025-01-01,Colombia,Cartagena,Tienda Física,18,Oficina,2305069,1266119,1038950,5
+501,2025-01-01,Colombia,Cartagena,Ecommerce,31,Tecnologia,884060,361375,522685,3
+502,2025-01-01,Colombia,Cartagena,App Móvil,51,Tecnologia,179304,101207,78097,3
+503,2025-01-01,Colombia,Cartagena,Tienda Física,26,Oficina,1658121,806619,851502,1
+504,2025-01-01,Colombia,Cartagena,App Móvil,58,Hogar,2948889,1459187,1489702,5
+505,2025-01-01,Colombia,Cartagena,Ecommerce,57,Tecnologia,2637829,1623000,1014829,4
+506,2025-01-01,Colombia,Cartagena,App Móvil,29,Oficina,2589998,1350503,1239495,4
+507,2025-01-01,Colombia,Cartagena,Tienda Física,61,Tecnologia,570028,312668,257360,1
+508,2025-01-01,Colombia,Cartagena,App Móvil,52,Tecnologia,2715522,1613378,1102144,1
+509,2025-01-01,Colombia,Cartagena,Ecommerce,68,Tecnologia,2922473,2147440,775033,2
+510,2025-01-01,Colombia,Cartagena,Ecommerce,39,Tecnologia,1268240,923616,344624,2
+511,2025-01-01,Colombia,Cartagena,Ecommerce,63,Hogar,137041,66677,70364,1
+512,2025-01-01,Colombia,Cartagena,App Móvil,42,Tecnologia,551673,293069,258604,1
+513,2025-01-01,Colombia,Cartagena,App Móvil,18,Oficina,147943,86657,61286,1
+514,2025-01-01,Colombia,Cartagena,Ecommerce,68,Hogar,2770821,1385189,1385632,4
+515,2025-01-01,Colombia,Cartagena,Ecommerce,43,Tecnologia,2354502,1607288,747214,4
+516,2025-01-01,Colombia,Cartagena,App Móvil,63,Oficina,415935,244951,170984,2
+517,2025-01-01,Colombia,Cartagena,Ecommerce,42,Tecnologia,1093606,565108,528498,4
+518,2025-01-01,Colombia,Cartagena,Ecommerce,67,Tecnologia,2442190,1824339,617851,4
+519,2025-01-01,Colombia,Cartagena,Tienda Física,39,Oficina,2027849,951921,1075928,3
+520,2025-01-01,Colombia,Cartagena,Ecommerce,44,Oficina,2765477,2173568,591909,1
+521,2025-01-01,Colombia,Cartagena,Ecommerce,49,Hogar,2240981,920667,1320314,3
+522,2025-01-01,Colombia,Cartagena,App Móvil,22,Hogar,1329117,690472,638645,2
+523,2025-01-01,Colombia,Cartagena,App Móvil,54,Tecnologia,1621968,666291,955677,2
+524,2025-01-01,Colombia,Cartagena,Ecommerce,28,Oficina,2637735,1707200,930535,2
+525,2025-01-01,Colombia,Cartagena,Tienda Física,18,Oficina,2979082,1605086,1373996,1
+526,2025-01-01,Colombia,Cartagena,Ecommerce,54,Tecnologia,2696500,1785096,911404,3
+527,2025-01-01,Colombia,Cartagena,Ecommerce,66,Hogar,1044777,715962,328815,5
+528,2025-01-01,Colombia,Cartagena,Ecommerce,63,Tecnologia,943145,394598,548547,4
+529,2025-01-01,Colombia,Cartagena,App Móvil,32,Oficina,1084857,661062,423795,5
+530,2025-01-01,Colombia,Cartagena,Ecommerce,59,Tecnologia,2962915,2018557,944358,2
+531,2025-01-01,Colombia,Cartagena,Ecommerce,39,Oficina,211236,100475,110761,2
+532,2025-01-01,Colombia,Cartagena,Tienda Física,21,Hogar,1929106,1213945,715161,2
+533,2025-01-01,Colombia,Cartagena,Tienda Física,18,Oficina,2007299,1484379,522920,5
+534,2025-01-01,Colombia,Cartagena,App Móvil,28,Oficina,148784,73681,75103,1
+535,2025-01-01,Colombia,Cartagena,Tienda Física,35,Hogar,858794,599922,258872,1
+536,2025-01-01,Colombia,Cartagena,Tienda Física,50,Tecnologia,780735,530409,250326,2
+537,2025-01-01,Colombia,Cartagena,App Móvil,48,Tecnologia,2708337,1299008,1409329,5
+538,2025-01-01,Colombia,Cartagena,Tienda Física,39,Hogar,1797242,1045278,751964,2
+539,2025-01-01,Colombia,Cartagena,Tienda Física,42,Hogar,712300,335173,377127,3
+540,2025-01-01,Colombia,Cartagena,Ecommerce,55,Tecnologia,316620,128518,188102,3
+541,2025-01-01,Colombia,Cartagena,Tienda Física,63,Oficina,181013,137595,43418,1
+542,2025-01-01,Colombia,Cartagena,Ecommerce,21,Oficina,2252706,908016,1344690,3
+543,2025-01-01,Colombia,Cartagena,Tienda Física,49,Hogar,2802067,2220512,581555,4
+544,2025-01-01,Colombia,Cartagena,App Móvil,69,Oficina,1056092,427292,628800,3
+545,2025-01-01,Colombia,Cartagena,App Móvil,19,Tecnologia,1565327,1089026,476301,4
+546,2025-01-01,Colombia,Cartagena,App Móvil,34,Oficina,1347404,753903,593501,4
+547,2025-01-01,Colombia,Cartagena,Tienda Física,21,Hogar,677031,523650,153381,3
+548,2025-01-01,Colombia,Cartagena,App Móvil,57,Hogar,1720072,833480,886592,3
+549,2025-01-01,Colombia,Cartagena,App Móvil,28,Hogar,2272391,1138637,1133754,1
+550,2025-01-01,Colombia,Cartagena,Ecommerce,30,Hogar,2704579,1627345,1077234,1
+551,2025-01-01,Colombia,Cartagena,Tienda Física,38,Tecnologia,1261494,1006141,255353,5
+552,2025-01-01,Colombia,Cartagena,Tienda Física,25,Hogar,112891,51511,61380,3
+553,2025-01-01,Colombia,Cartagena,App Móvil,46,Tecnologia,2555201,1199430,1355771,4
+554,2025-01-01,Colombia,Cartagena,Ecommerce,45,Oficina,2874743,1230466,1644277,5
+555,2025-01-01,Colombia,Cartagena,Ecommerce,36,Hogar,1069687,585396,484291,2
+556,2025-01-01,Colombia,Cartagena,Tienda Física,45,Tecnologia,1925344,1442058,483286,2
+557,2025-01-01,Colombia,Cartagena,App Móvil,32,Oficina,1121802,689594,432208,5
+558,2025-01-01,Colombia,Cartagena,Ecommerce,24,Oficina,2416508,1398023,1018485,1
+559,2025-01-01,Colombia,Cartagena,Tienda Física,68,Tecnologia,1437159,914837,522322,3
+560,2025-01-01,Colombia,Cartagena,App Móvil,50,Tecnologia,2056878,1386239,670639,1
+561,2025-01-01,Colombia,Cartagena,Ecommerce,38,Oficina,799544,338890,460654,2
+562,2025-01-01,Colombia,Cartagena,Ecommerce,52,Tecnologia,2838255,1624174,1214081,3
+563,2025-01-01,Colombia,Cartagena,Tienda Física,66,Hogar,2785111,1866770,918341,1
+564,2025-01-01,Colombia,Cartagena,App Móvil,55,Tecnologia,996982,449266,547716,4
+565,2025-01-01,Colombia,Cartagena,App Móvil,40,Tecnologia,2834485,1730050,1104435,4
+566,2025-01-01,Colombia,Cartagena,App Móvil,43,Hogar,229727,138305,91422,5
+567,2025-01-01,Colombia,Cartagena,App Móvil,60,Tecnologia,1302681,676655,626026,2
+568,2025-01-01,Colombia,Cartagena,App Móvil,53,Tecnologia,679395,471326,208069,5
+569,2025-01-01,Colombia,Cartagena,App Móvil,32,Oficina,1315389,538788,776601,5
+570,2025-01-01,Colombia,Cartagena,Tienda Física,54,Tecnologia,218523,145102,73421,1
+571,2025-01-01,Colombia,Cartagena,Tienda Física,62,Tecnologia,133559,89484,44075,1
+572,2025-01-01,Colombia,Cartagena,Ecommerce,63,Tecnologia,2928982,1237773,1691209,1
+573,2025-01-01,Colombia,Cartagena,Tienda Física,31,Tecnologia,2368043,1266336,1101707,5
+574,2025-01-01,Colombia,Cartagena,App Móvil,41,Hogar,967134,559845,407289,3
+575,2025-01-01,Colombia,Cartagena,Tienda Física,43,Oficina,111717,76065,35652,4
+576,2025-01-01,Colombia,Cartagena,Tienda Física,19,Hogar,1572716,929081,643635,5
+577,2025-01-01,Colombia,Cartagena,App Móvil,38,Tecnologia,1065785,659769,406016,1
+578,2025-01-01,Colombia,Cartagena,Ecommerce,27,Tecnologia,54952,40965,13987,5
+579,2025-01-01,Colombia,Cartagena,App Móvil,27,Oficina,309410,141975,167435,4
+580,2025-01-01,Colombia,Cartagena,Ecommerce,19,Tecnologia,1667597,1270089,397508,2
+581,2025-01-01,Colombia,Cartagena,Tienda Física,43,Oficina,2046268,1409606,636662,2
+582,2025-01-01,Colombia,Cartagena,Ecommerce,67,Tecnologia,1533965,804571,729394,4
+583,2025-01-01,Colombia,Cartagena,Ecommerce,37,Hogar,237690,157138,80552,3
+584,2025-01-01,Colombia,Cartagena,Ecommerce,35,Tecnologia,2379061,1476926,902135,2
+585,2025-01-01,Colombia,Cartagena,App Móvil,68,Hogar,1604375,1280146,324229,4
+586,2025-01-01,Colombia,Cartagena,App Móvil,29,Oficina,253355,122316,131039,4
+587,2025-01-01,Colombia,Cartagena,App Móvil,54,Tecnologia,1641799,1122920,518879,3
+588,2025-01-01,Colombia,Cartagena,Ecommerce,35,Oficina,2068586,933580,1135006,4
+589,2025-01-01,Colombia,Cartagena,App Móvil,70,Oficina,986520,631971,354549,2
+590,2025-01-01,Colombia,Cartagena,Ecommerce,42,Tecnologia,1195084,912517,282567,1
+591,2025-01-01,Colombia,Cartagena,Tienda Física,49,Tecnologia,487141,316607,170534,2
+592,2025-01-01,Colombia,Cartagena,Tienda Física,41,Tecnologia,2651707,1913981,737726,2
+593,2025-01-01,Colombia,Cartagena,Tienda Física,43,Hogar,220826,90433,130393,1
+594,2025-01-01,Colombia,Cartagena,Ecommerce,28,Hogar,2041219,1140692,900527,2
+595,2025-01-01,Colombia,Cartagena,Ecommerce,64,Hogar,2182681,1245553,937128,4
+596,2025-01-01,Colombia,Cartagena,Ecommerce,62,Oficina,689600,549168,140432,2
+597,2025-01-01,Colombia,Cartagena,Tienda Física,23,Hogar,2794018,1772221,1021797,4
+598,2025-01-01,Colombia,Cartagena,App Móvil,55,Tecnologia,200672,146613,54059,5
+599,2025-01-01,Colombia,Cartagena,Tienda Física,62,Hogar,711525,344633,366892,1
+600,2025-01-01,Colombia,Cartagena,Tienda Física,49,Oficina,265953,141117,124836,1
+601,2025-01-01,Colombia,Cartagena,App Móvil,39,Hogar,639522,463853,175669,4
+602,2025-01-01,Colombia,Cartagena,App Móvil,49,Tecnologia,558299,421464,136835,3
+603,2025-01-01,Colombia,Cartagena,App Móvil,47,Oficina,2317034,1300338,1016696,2
+604,2025-01-01,Colombia,Cartagena,Tienda Física,36,Tecnologia,868999,453779,415220,1
+605,2025-01-01,Colombia,Cartagena,Tienda Física,46,Oficina,1440431,1055176,385255,3
+606,2025-01-01,Colombia,Cartagena,Ecommerce,37,Oficina,1415326,641191,774135,3
+607,2025-01-01,Colombia,Cartagena,Tienda Física,49,Hogar,2650873,1061335,1589538,3
+608,2025-01-01,Colombia,Cartagena,Tienda Física,56,Tecnologia,815763,499119,316644,3
+609,2025-01-01,Colombia,Cartagena,Tienda Física,58,Oficina,2812614,1380386,1432228,3
+610,2025-01-01,Colombia,Cartagena,App Móvil,27,Hogar,747663,533894,213769,3
+611,2025-01-01,Colombia,Cartagena,Ecommerce,34,Tecnologia,2092189,920143,1172046,5
+612,2025-01-01,Colombia,Cartagena,Ecommerce,29,Tecnologia,167140,95749,71391,4
+613,2025-01-01,Colombia,Cartagena,Tienda Física,61,Tecnologia,2706019,1366745,1339274,5
+614,2025-01-01,Colombia,Cartagena,Tienda Física,33,Hogar,852530,678449,174081,4
+615,2025-01-01,Colombia,Cartagena,App Móvil,51,Hogar,1822583,1025956,796627,1
+616,2025-01-01,Colombia,Cartagena,Tienda Física,67,Oficina,1764670,1332781,431889,2
+617,2025-01-01,Colombia,Cartagena,Ecommerce,25,Tecnologia,2672751,1172789,1499962,2
+618,2025-01-01,Colombia,Cartagena,App Móvil,62,Hogar,2772701,1996421,776280,1
+619,2025-01-01,Colombia,Cartagena,App Móvil,24,Oficina,342875,186855,156020,2
+620,2025-01-01,Colombia,Cartagena,Tienda Física,69,Oficina,1494117,965839,528278,5
+621,2025-01-01,Colombia,Cartagena,Ecommerce,25,Hogar,2429612,1449236,980376,4
+622,2025-01-01,Colombia,Cartagena,Ecommerce,59,Hogar,94256,43313,50943,2
+623,2025-01-01,Colombia,Cartagena,Ecommerce,21,Hogar,525035,405842,119193,5
+624,2025-01-01,Colombia,Cartagena,App Móvil,66,Hogar,935161,707271,227890,5
+625,2025-01-01,Colombia,Cartagena,App Móvil,33,Oficina,2180251,1716772,463479,5
+626,2025-01-01,Colombia,Cartagena,App Móvil,58,Oficina,2526018,1862373,663645,4
+627,2025-01-01,Colombia,Cartagena,Ecommerce,27,Oficina,1326124,724632,601492,5
+628,2025-01-01,Colombia,Cartagena,App Móvil,37,Hogar,1785426,1373657,411769,2
+629,2025-01-01,Colombia,Cartagena,Tienda Física,23,Tecnologia,1066867,585324,481543,1
+630,2025-01-01,Colombia,Cartagena,Ecommerce,65,Tecnologia,1751896,794716,957180,3
+631,2025-01-01,Colombia,Cartagena,Tienda Física,19,Hogar,283639,158652,124987,2
+632,2025-01-01,Colombia,Cartagena,Tienda Física,18,Oficina,733119,413108,320011,1
+633,2025-01-01,Colombia,Cartagena,App Móvil,43,Oficina,1392768,1002051,390717,4
+634,2025-01-01,Colombia,Cartagena,Tienda Física,68,Oficina,846787,463731,383056,2
+635,2025-01-01,Colombia,Cartagena,Ecommerce,28,Oficina,1277279,774479,502800,5
+636,2025-01-01,Colombia,Cartagena,App Móvil,30,Hogar,734989,340280,394709,5
+637,2025-01-01,Colombia,Cartagena,Tienda Física,30,Hogar,677485,483326,194159,4
+638,2025-01-01,Colombia,Cartagena,App Móvil,67,Oficina,2263377,1616030,647347,3
+639,2025-01-01,Colombia,Cartagena,App Móvil,58,Hogar,199862,94877,104985,1
+640,2025-01-01,Colombia,Cartagena,Tienda Física,57,Oficina,857881,407423,450458,1
+641,2025-01-01,Colombia,Cartagena,Tienda Física,33,Oficina,931518,630531,300987,3
+642,2025-01-01,Colombia,Cartagena,App Móvil,62,Oficina,1007274,641154,366120,1
+643,2025-01-01,Colombia,Cartagena,Ecommerce,66,Oficina,1035360,814178,221182,3
+644,2025-01-01,Colombia,Cartagena,Ecommerce,32,Tecnologia,2754227,1595283,1158944,3
+645,2025-01-01,Colombia,Cartagena,App Móvil,26,Oficina,644897,439828,205069,1
+646,2025-01-01,Colombia,Cartagena,App Móvil,27,Oficina,1079734,805926,273808,3
+647,2025-01-01,Colombia,Cartagena,Tienda Física,54,Hogar,2997454,1520437,1477017,3
+648,2025-01-01,Colombia,Cartagena,Tienda Física,42,Oficina,2021699,1000908,1020791,3
+649,2025-01-01,Colombia,Cartagena,App Móvil,40,Hogar,649651,460607,189044,5
+650,2025-01-01,Colombia,Cartagena,Ecommerce,42,Oficina,2750714,1147177,1603537,5
+651,2025-01-01,Colombia,Cartagena,Tienda Física,36,Tecnologia,1237973,619994,617979,5
+652,2025-01-01,Colombia,Cartagena,Tienda Física,68,Hogar,751092,426486,324606,4
+653,2025-01-01,Colombia,Cartagena,Ecommerce,34,Oficina,1680479,903776,776703,1
+654,2025-01-01,Colombia,Cartagena,Tienda Física,60,Oficina,309746,182204,127542,4
+655,2025-01-01,Colombia,Cartagena,App Móvil,52,Tecnologia,859045,602933,256112,5
+656,2025-01-01,Colombia,Cartagena,Tienda Física,43,Tecnologia,2308805,973388,1335417,2
+657,2025-01-01,Colombia,Cartagena,App Móvil,61,Oficina,1887245,1383649,503596,5
+658,2025-01-01,Colombia,Cartagena,Ecommerce,37,Hogar,483691,230698,252993,3
+659,2025-01-01,Colombia,Cartagena,Ecommerce,51,Oficina,2071638,1005603,1066035,4
+660,2025-01-01,Colombia,Cartagena,App Móvil,67,Oficina,2712113,1217019,1495094,4
+661,2025-01-01,Colombia,Cartagena,Tienda Física,51,Tecnologia,2506420,1583470,922950,1
+662,2025-01-01,Colombia,Cartagena,Tienda Física,46,Hogar,1521644,1022939,498705,5
+663,2025-01-01,Colombia,Cartagena,Tienda Física,27,Hogar,90373,58689,31684,3
+664,2025-01-01,Colombia,Cartagena,Ecommerce,33,Oficina,696784,305846,390938,4
+665,2025-01-01,Colombia,Cartagena,App Móvil,56,Hogar,2955606,1697056,1258550,5
+666,2025-01-01,Colombia,Cartagena,Ecommerce,64,Tecnologia,347696,275690,72006,4
+667,2025-01-01,Colombia,Cartagena,Ecommerce,35,Tecnologia,2898019,1241139,1656880,5
+668,2025-01-01,Colombia,Cartagena,Tienda Física,60,Oficina,553925,284833,269092,3
+669,2025-01-01,Colombia,Cartagena,Ecommerce,61,Hogar,444406,284579,159827,5
+670,2025-01-01,Colombia,Cartagena,Tienda Física,29,Tecnologia,152384,109672,42712,1
+671,2025-01-01,Colombia,Cartagena,Ecommerce,69,Tecnologia,425428,259232,166196,3
+672,2025-01-01,Colombia,Cartagena,Ecommerce,20,Oficina,792448,621465,170983,5
+673,2025-01-01,Colombia,Cartagena,Tienda Física,44,Hogar,2971215,2336090,635125,1
+674,2025-01-01,Colombia,Cartagena,Tienda Física,59,Oficina,2169760,1636013,533747,2
+675,2025-01-01,Colombia,Cartagena,Ecommerce,41,Oficina,1171173,862046,309127,5
+676,2025-01-01,Colombia,Cartagena,Tienda Física,46,Tecnologia,712962,364422,348540,2
+677,2025-01-01,Colombia,Cartagena,App Móvil,68,Oficina,1648737,962721,686016,4
+678,2025-01-01,Colombia,Cartagena,Tienda Física,34,Hogar,1433472,996991,436481,2
+679,2025-01-01,Colombia,Cartagena,Ecommerce,41,Oficina,354422,270893,83529,2
+680,2025-01-01,Colombia,Cartagena,Tienda Física,56,Hogar,1282288,928174,354114,2
+681,2025-01-01,Colombia,Cartagena,App Móvil,40,Oficina,1876395,935933,940462,1
+682,2025-01-01,Colombia,Cartagena,App Móvil,62,Hogar,654316,390001,264315,5
+683,2025-01-01,Colombia,Cartagena,Ecommerce,48,Tecnologia,1294206,846400,447806,5
+684,2025-01-01,Colombia,Cartagena,Ecommerce,40,Tecnologia,2387649,1636077,751572,2
+685,2025-01-01,Colombia,Cartagena,App Móvil,50,Hogar,2624067,1554656,1069411,1
+686,2025-01-01,Colombia,Cartagena,Ecommerce,19,Hogar,1950096,1072730,877366,4
+687,2025-01-01,Colombia,Cartagena,Tienda Física,28,Oficina,2926804,2262017,664787,1
+688,2025-01-01,Colombia,Cartagena,App Móvil,70,Hogar,2581423,1769787,811636,5
+689,2025-01-01,Colombia,Cartagena,Tienda Física,70,Hogar,1618214,776928,841286,4
+690,2025-01-01,Colombia,Cartagena,Ecommerce,37,Tecnologia,575157,311191,263966,2
+691,2025-01-01,Colombia,Cartagena,App Móvil,22,Tecnologia,413754,322972,90782,3
+692,2025-01-01,Colombia,Cartagena,Ecommerce,52,Tecnologia,311125,243249,67876,1
+693,2025-01-01,Colombia,Cartagena,App Móvil,48,Hogar,2507105,1184548,1322557,3
+694,2025-01-01,Colombia,Cartagena,Ecommerce,29,Tecnologia,1488440,678375,810065,4
+695,2025-01-01,Colombia,Cartagena,Ecommerce,20,Tecnologia,1451711,619914,831797,2
+696,2025-01-01,Colombia,Cartagena,App Móvil,42,Hogar,2535750,1977634,558116,1
+697,2025-01-01,Colombia,Cartagena,Tienda Física,43,Hogar,2374449,1876053,498396,4
+698,2025-01-01,Colombia,Cartagena,Ecommerce,68,Oficina,336939,168361,168578,3
+699,2025-01-01,Colombia,Cartagena,Tienda Física,51,Oficina,925689,503993,421696,1
+700,2025-01-01,Colombia,Cartagena,App Móvil,56,Tecnologia,896020,670237,225783,1
+701,2025-01-01,Colombia,Cartagena,Ecommerce,32,Oficina,1580306,673340,906966,4
+702,2025-01-01,Colombia,Cartagena,App Móvil,43,Tecnologia,1013663,517447,496216,1
+703,2025-01-01,Colombia,Cartagena,App Móvil,55,Tecnologia,363450,176493,186957,2
+704,2025-01-01,Colombia,Cartagena,Ecommerce,26,Hogar,124231,97546,26685,3
+705,2025-01-01,Colombia,Cartagena,Ecommerce,21,Hogar,2420273,1014520,1405753,4
+706,2025-01-01,Colombia,Cartagena,Tienda Física,42,Oficina,1476590,1137023,339567,5
+707,2025-01-01,Colombia,Cartagena,Ecommerce,26,Oficina,1913910,789218,1124692,5
+708,2025-01-01,Colombia,Cartagena,Ecommerce,27,Oficina,1971827,990917,980910,3
+709,2025-01-01,Colombia,Cartagena,App Móvil,47,Hogar,2032479,1150515,881964,5
+710,2025-01-01,Colombia,Cartagena,Tienda Física,39,Hogar,839066,583585,255481,4
+711,2025-01-01,Colombia,Cartagena,Ecommerce,48,Tecnologia,2748228,1632329,1115899,5
+712,2025-01-01,Colombia,Cartagena,Tienda Física,46,Oficina,82448,54979,27469,5
+713,2025-01-01,Colombia,Cartagena,Ecommerce,39,Hogar,2579190,1604919,974271,5
+714,2025-01-01,Colombia,Cartagena,Tienda Física,70,Hogar,630974,443463,187511,5
+715,2025-01-01,Colombia,Cartagena,App Móvil,67,Oficina,598506,246264,352242,3
+716,2025-01-01,Colombia,Cartagena,Tienda Física,20,Oficina,518479,368057,150422,5
+717,2025-01-01,Colombia,Cartagena,Tienda Física,28,Hogar,2425277,1599831,825446,1
+718,2025-01-01,Colombia,Cartagena,Ecommerce,47,Hogar,1407283,998791,408492,5
+719,2025-01-01,Colombia,Cartagena,App Móvil,36,Oficina,793884,439499,354385,2
+720,2025-01-01,Colombia,Cartagena,Ecommerce,43,Oficina,672009,516589,155420,4
+721,2025-01-01,Colombia,Cartagena,Ecommerce,55,Tecnologia,1138942,712731,426211,5
+722,2025-01-01,Colombia,Cartagena,App Móvil,21,Hogar,1198512,830073,368439,3
+723,2025-01-01,Colombia,Cartagena,App Móvil,64,Tecnologia,1174797,511853,662944,5
+724,2025-01-01,Colombia,Cartagena,App Móvil,52,Oficina,1728778,1278130,450648,1
+725,2025-01-01,Colombia,Cartagena,App Móvil,35,Hogar,2180848,1518436,662412,5
+726,2025-01-01,Colombia,Cartagena,App Móvil,70,Tecnologia,1478998,1049351,429647,2
+727,2025-01-01,Colombia,Cartagena,Tienda Física,35,Tecnologia,1455029,1073697,381332,5
+728,2025-01-01,Colombia,Cartagena,App Móvil,24,Hogar,2785927,1514815,1271112,2
+729,2025-01-01,Colombia,Cartagena,App Móvil,51,Oficina,187793,137278,50515,1
+730,2025-01-01,Colombia,Cartagena,Tienda Física,32,Hogar,958173,432587,525586,5
+731,2025-01-01,Colombia,Cartagena,App Móvil,28,Hogar,300150,201618,98532,1
+732,2025-01-01,Colombia,Cartagena,App Móvil,54,Oficina,221634,146912,74722,1
+733,2025-01-01,Colombia,Cartagena,Tienda Física,22,Hogar,851145,445772,405373,2
+734,2025-01-01,Colombia,Cartagena,Ecommerce,69,Hogar,121385,87990,33395,3
+735,2025-01-01,Colombia,Cartagena,Ecommerce,18,Tecnologia,2032143,1562444,469699,3
+736,2025-01-01,Colombia,Cartagena,Tienda Física,36,Tecnologia,1228278,514969,713309,3
+737,2025-01-01,Colombia,Cartagena,Tienda Física,67,Hogar,2971166,1731000,1240166,5
+738,2025-01-01,Colombia,Cartagena,App Móvil,31,Tecnologia,1461924,1169402,292522,2
+739,2025-01-01,Colombia,Cartagena,Ecommerce,70,Hogar,1294800,681093,613707,5
+740,2025-01-01,Colombia,Cartagena,App Móvil,23,Oficina,971590,582047,389543,3
+741,2025-01-01,Colombia,Cartagena,Ecommerce,43,Tecnologia,290441,224558,65883,1
+742,2025-01-01,Colombia,Cartagena,Tienda Física,33,Oficina,894111,678497,215614,3
+743,2025-01-01,Colombia,Cartagena,App Móvil,53,Tecnologia,1450593,704145,746448,4
+744,2025-01-01,Colombia,Cartagena,Tienda Física,40,Hogar,2511980,1919812,592168,4
+745,2025-01-01,Colombia,Cartagena,Ecommerce,36,Hogar,2646821,1536251,1110570,4
+746,2025-01-01,Colombia,Cartagena,Ecommerce,57,Tecnologia,296961,136103,160858,2
+747,2025-01-01,Colombia,Cartagena,Ecommerce,69,Oficina,1661827,876781,785046,1
+748,2025-01-01,Colombia,Cartagena,Ecommerce,49,Oficina,893587,509857,383730,3
+749,2025-01-01,Colombia,Cartagena,Tienda Física,18,Hogar,2686759,1633586,1053173,5
+750,2025-01-01,Colombia,Cartagena,Ecommerce,33,Tecnologia,50597,36332,14265,1
+751,2025-01-01,Colombia,Cartagena,App Móvil,35,Oficina,2873839,2115620,758219,3
+752,2025-01-01,Colombia,Cartagena,Tienda Física,55,Tecnologia,1017783,627372,390411,4
+753,2025-01-01,Colombia,Cartagena,Ecommerce,40,Hogar,891261,583824,307437,3
+754,2025-01-01,Colombia,Cartagena,App Móvil,27,Hogar,993747,466945,526802,4
+755,2025-01-01,Colombia,Cartagena,App Móvil,32,Oficina,250777,153064,97713,5
+756,2025-01-01,Colombia,Cartagena,App Móvil,20,Tecnologia,1776450,890061,886389,3
+757,2025-01-01,Colombia,Cartagena,App Móvil,50,Tecnologia,396471,232633,163838,3
+758,2025-01-01,Colombia,Cartagena,Ecommerce,20,Hogar,2958555,1398885,1559670,2
+759,2025-01-01,Colombia,Cartagena,Tienda Física,69,Oficina,2735575,1458616,1276959,4
+760,2025-01-01,Colombia,Cartagena,App Móvil,19,Hogar,277925,220115,57810,2
+761,2025-01-01,Colombia,Cartagena,App Móvil,28,Oficina,2711554,1640603,1070951,1
+762,2025-01-01,Colombia,Cartagena,Tienda Física,24,Tecnologia,2566397,1487613,1078784,4
+763,2025-01-01,Colombia,Cartagena,Ecommerce,55,Tecnologia,1970787,1470783,500004,2
+764,2025-01-01,Colombia,Cartagena,Ecommerce,51,Tecnologia,820727,345404,475323,1
+765,2025-01-01,Colombia,Cartagena,Tienda Física,55,Hogar,771353,392404,378949,2
+766,2025-01-01,Colombia,Cartagena,App Móvil,27,Hogar,1372912,927550,445362,5
+767,2025-01-01,Colombia,Cartagena,App Móvil,54,Hogar,1214740,623770,590970,3
+768,2025-01-01,Colombia,Cartagena,App Móvil,66,Tecnologia,2668139,2114410,553729,5
+769,2025-01-01,Colombia,Cartagena,Tienda Física,31,Hogar,1423939,899845,524094,5
+770,2025-01-01,Colombia,Cartagena,Ecommerce,26,Hogar,2609714,1816973,792741,1
+771,2025-01-01,Colombia,Cartagena,App Móvil,41,Oficina,1106865,610543,496322,3
+772,2025-01-01,Colombia,Cartagena,App Móvil,48,Hogar,2067809,1155303,912506,5
+773,2025-01-01,Colombia,Cartagena,App Móvil,19,Tecnologia,301517,208440,93077,2
+774,2025-01-01,Colombia,Cartagena,Tienda Física,61,Tecnologia,1819700,1325963,493737,4
+775,2025-01-01,Colombia,Cartagena,Tienda Física,65,Tecnologia,762832,414008,348824,5
+776,2025-01-01,Colombia,Cartagena,Tienda Física,18,Oficina,2205318,891826,1313492,3
+777,2025-01-01,Colombia,Cartagena,Ecommerce,66,Tecnologia,1261995,820612,441383,2
+778,2025-01-01,Colombia,Cartagena,Tienda Física,58,Hogar,102833,69976,32857,4
+779,2025-01-01,Colombia,Cartagena,Ecommerce,30,Oficina,2781912,1359642,1422270,2
+780,2025-01-01,Colombia,Cartagena,Ecommerce,20,Tecnologia,1740674,1151277,589397,2
+781,2025-01-01,Colombia,Cartagena,Tienda Física,45,Tecnologia,2854218,1267560,1586658,3
+782,2025-01-01,Colombia,Cartagena,App Móvil,64,Oficina,1641286,1119707,521579,5
+783,2025-01-01,Colombia,Cartagena,App Móvil,41,Oficina,1712975,1075915,637060,4
+784,2025-01-01,Colombia,Cartagena,Ecommerce,47,Hogar,2558319,1146164,1412155,2
+785,2025-01-01,Colombia,Cartagena,Tienda Física,23,Oficina,796953,381733,415220,1
+786,2025-01-01,Colombia,Cartagena,App Móvil,67,Tecnologia,1446347,755514,690833,2
+787,2025-01-01,Colombia,Cartagena,Tienda Física,62,Tecnologia,2867014,2251278,615736,5
+788,2025-01-01,Colombia,Cartagena,Ecommerce,39,Hogar,2943920,1773237,1170683,4
+789,2025-01-01,Colombia,Cartagena,Tienda Física,59,Hogar,779878,527887,251991,2
+790,2025-01-01,Colombia,Cartagena,Tienda Física,23,Tecnologia,2632978,1367073,1265905,1
+791,2025-01-01,Colombia,Cartagena,Ecommerce,19,Hogar,229102,183126,45976,1
+792,2025-01-01,Colombia,Cartagena,App Móvil,33,Hogar,2372773,1225373,1147400,1
+793,2025-01-01,Colombia,Cartagena,App Móvil,29,Hogar,1503889,1166264,337625,4
+794,2025-01-01,Colombia,Cartagena,App Móvil,59,Hogar,1964417,835332,1129085,4
+795,2025-01-01,Colombia,Cartagena,Ecommerce,62,Tecnologia,1905934,1101594,804340,3
+796,2025-01-01,Colombia,Cartagena,App Móvil,32,Oficina,1443555,1150541,293014,5
+797,2025-01-01,Colombia,Cartagena,Ecommerce,61,Hogar,2591497,1045813,1545684,2
+798,2025-01-01,Colombia,Cartagena,Ecommerce,28,Hogar,511073,377093,133980,3
+799,2025-01-01,Colombia,Cartagena,Ecommerce,19,Oficina,1078832,513626,565206,1
+800,2025-01-01,Colombia,Cartagena,App Móvil,63,Oficina,420642,170489,250153,2
+801,2025-01-01,Colombia,Cartagena,App Móvil,40,Tecnologia,1895974,936518,959456,5
+802,2025-01-01,Colombia,Cartagena,Ecommerce,28,Oficina,2362820,1326288,1036532,4
+803,2025-01-01,Colombia,Cartagena,App Móvil,49,Tecnologia,203319,115470,87849,3
+804,2025-01-01,Colombia,Cartagena,App Móvil,43,Tecnologia,1883178,1193216,689962,1
+805,2025-01-01,Colombia,Cartagena,Ecommerce,40,Oficina,2045111,1516938,528173,1
+806,2025-01-01,Colombia,Cartagena,Tienda Física,65,Oficina,1422740,679231,743509,1
+807,2025-01-01,Colombia,Cartagena,App Móvil,39,Oficina,1157344,843619,313725,2
+808,2025-01-01,Colombia,Cartagena,Ecommerce,34,Tecnologia,2347530,1739461,608069,1
+809,2025-01-01,Colombia,Cartagena,Ecommerce,55,Tecnologia,1090385,818385,272000,2
+810,2025-01-01,Colombia,Cartagena,Ecommerce,42,Hogar,1857226,1047133,810093,1
+811,2025-01-01,Colombia,Cartagena,App Móvil,43,Oficina,2976755,1406905,1569850,4
+812,2025-01-01,Colombia,Cartagena,App Móvil,42,Hogar,669134,371588,297546,1
+813,2025-01-01,Colombia,Cartagena,Ecommerce,60,Oficina,1881019,998130,882889,3
+814,2025-01-01,Colombia,Cartagena,App Móvil,40,Oficina,438364,316199,122165,5
+815,2025-01-01,Colombia,Cartagena,App Móvil,68,Hogar,1828142,991962,836180,1
+816,2025-01-01,Colombia,Cartagena,App Móvil,67,Tecnologia,2954282,1959832,994450,2
+817,2025-01-01,Colombia,Cartagena,App Móvil,25,Tecnologia,1715496,890058,825438,5
+818,2025-01-01,Colombia,Cartagena,Ecommerce,26,Tecnologia,681887,401115,280772,4
+819,2025-01-01,Colombia,Cartagena,Ecommerce,36,Oficina,2946688,2131042,815646,5
+820,2025-01-01,Colombia,Cartagena,Tienda Física,61,Tecnologia,252654,114744,137910,4
+821,2025-01-01,Colombia,Cartagena,App Móvil,25,Hogar,1101303,503600,597703,1
+822,2025-01-01,Colombia,Cartagena,App Móvil,68,Tecnologia,1062394,665074,397320,1
+823,2025-01-01,Colombia,Cartagena,Tienda Física,45,Hogar,191327,135652,55675,4
+824,2025-01-01,Colombia,Cartagena,Ecommerce,47,Oficina,1899006,1483746,415260,2
+825,2025-01-01,Colombia,Cartagena,App Móvil,60,Oficina,76722,58260,18462,3
+826,2025-01-01,Colombia,Cartagena,App Móvil,33,Tecnologia,211944,162503,49441,2
+827,2025-01-01,Colombia,Cartagena,Tienda Física,22,Hogar,1556551,867038,689513,1
+828,2025-01-01,Colombia,Cartagena,App Móvil,55,Oficina,2531497,1154709,1376788,3
+829,2025-01-01,Colombia,Cartagena,App Móvil,57,Hogar,1615489,889496,725993,2
+830,2025-01-01,Colombia,Cartagena,App Móvil,59,Tecnologia,1352058,655153,696905,4
+831,2025-01-01,Colombia,Cartagena,Ecommerce,48,Oficina,949356,431491,517865,5
+832,2025-01-01,Colombia,Cartagena,App Móvil,60,Tecnologia,1538659,819685,718974,5
+833,2025-01-01,Colombia,Cartagena,Ecommerce,33,Tecnologia,326427,187069,139358,4
+834,2025-01-01,Colombia,Cartagena,Ecommerce,70,Hogar,1645454,1203028,442426,4
+835,2025-01-01,Colombia,Cartagena,App Móvil,32,Oficina,758219,591490,166729,3
+836,2025-01-01,Colombia,Cartagena,Tienda Física,51,Oficina,154355,94191,60164,2
+837,2025-01-01,Colombia,Cartagena,Tienda Física,56,Tecnologia,63758,36431,27327,2
+838,2025-01-01,Colombia,Cartagena,Tienda Física,61,Oficina,2437841,1003205,1434636,2
+839,2025-01-01,Colombia,Cartagena,Ecommerce,31,Hogar,1865472,959302,906170,2
+840,2025-01-01,Colombia,Cartagena,App Móvil,49,Tecnologia,194043,78617,115426,4
+841,2025-01-01,Colombia,Cartagena,Tienda Física,22,Oficina,753825,528524,225301,2
+842,2025-01-01,Colombia,Cartagena,Ecommerce,60,Oficina,2683231,1425392,1257839,4
+843,2025-01-01,Colombia,Cartagena,App Móvil,24,Tecnologia,763616,384456,379160,5
+844,2025-01-01,Colombia,Cartagena,Ecommerce,61,Hogar,1874223,1012993,861230,1
+845,2025-01-01,Colombia,Cartagena,Ecommerce,23,Tecnologia,1850328,938369,911959,4
+846,2025-01-01,Colombia,Cartagena,Tienda Física,58,Tecnologia,2944538,2087118,857420,5
+847,2025-01-01,Colombia,Cartagena,Tienda Física,56,Tecnologia,1828686,1102480,726206,2
+848,2025-01-01,Colombia,Cartagena,App Móvil,18,Hogar,1392050,594766,797284,4
+849,2025-01-01,Colombia,Cartagena,Tienda Física,42,Tecnologia,1334576,616682,717894,1
+850,2025-01-01,Colombia,Cartagena,Ecommerce,44,Oficina,562589,266704,295885,2
+851,2025-01-01,Colombia,Cartagena,Tienda Física,70,Tecnologia,2969043,1414379,1554664,5
+852,2025-01-01,Colombia,Cartagena,Ecommerce,56,Oficina,1631456,690049,941407,2
+853,2025-01-01,Colombia,Cartagena,Ecommerce,25,Hogar,1858885,1282140,576745,2
+854,2025-01-01,Colombia,Cartagena,App Móvil,58,Hogar,1390486,714126,676360,1
+855,2025-01-01,Colombia,Cartagena,Ecommerce,21,Oficina,1436447,629418,807029,5
+856,2025-01-01,Colombia,Cartagena,Ecommerce,53,Oficina,2547893,1798688,749205,4
+857,2025-01-01,Colombia,Cartagena,Ecommerce,38,Tecnologia,2972286,1493030,1479256,5
+858,2025-01-01,Colombia,Cartagena,Tienda Física,32,Tecnologia,2994418,1988888,1005530,5
+859,2025-01-01,Colombia,Cartagena,App Móvil,39,Tecnologia,494586,373390,121196,4
+860,2025-01-01,Colombia,Cartagena,App Móvil,65,Hogar,1292575,609997,682578,4
+861,2025-01-01,Colombia,Cartagena,Tienda Física,53,Oficina,252047,142994,109053,3
+862,2025-01-01,Colombia,Cartagena,App Móvil,57,Oficina,417249,197998,219251,2
+863,2025-01-01,Colombia,Cartagena,App Móvil,69,Tecnologia,1984915,1535621,449294,2
+864,2025-01-01,Colombia,Cartagena,App Móvil,33,Oficina,90759,50900,39859,4
+865,2025-01-01,Colombia,Cartagena,Tienda Física,67,Hogar,1649049,1278082,370967,1
+866,2025-01-01,Colombia,Cartagena,Tienda Física,30,Tecnologia,2777267,1515633,1261634,3
+867,2025-01-01,Colombia,Cartagena,App Móvil,70,Oficina,1493487,1143940,349547,1
+868,2025-01-01,Colombia,Cartagena,Ecommerce,32,Oficina,2377202,1195814,1181388,2
+869,2025-01-01,Colombia,Cartagena,Ecommerce,35,Hogar,2366018,1582624,783394,4
+870,2025-01-01,Colombia,Cartagena,App Móvil,25,Hogar,2949182,1768282,1180900,4
+871,2025-01-01,Colombia,Cartagena,Tienda Física,54,Tecnologia,202731,98873,103858,3
+872,2025-01-01,Colombia,Cartagena,Tienda Física,41,Oficina,207721,83912,123809,4
+873,2025-01-01,Colombia,Cartagena,Tienda Física,46,Hogar,1756079,1251788,504291,2
+874,2025-01-01,Colombia,Cartagena,Tienda Física,67,Tecnologia,473425,333457,139968,3
+875,2025-01-01,Colombia,Cartagena,App Móvil,50,Hogar,516214,386406,129808,5
+876,2025-01-01,Colombia,Cartagena,Ecommerce,49,Hogar,318397,208330,110067,2
+877,2025-01-01,Colombia,Cartagena,Ecommerce,29,Tecnologia,2104327,1239457,864870,1
+878,2025-01-01,Colombia,Cartagena,App Móvil,64,Hogar,2340012,1752768,587244,1
+879,2025-01-01,Colombia,Cartagena,Ecommerce,63,Hogar,2709792,2099436,610356,4
+880,2025-01-01,Colombia,Cartagena,Ecommerce,18,Hogar,313584,146550,167034,2
+881,2025-01-01,Colombia,Cartagena,Tienda Física,44,Oficina,497052,292920,204132,1
+882,2025-01-01,Colombia,Cartagena,Tienda Física,59,Hogar,2049074,1103641,945433,5
+883,2025-01-01,Colombia,Cartagena,Tienda Física,37,Oficina,720345,446765,273580,3
+884,2025-01-01,Colombia,Cartagena,Ecommerce,32,Oficina,264153,162052,102101,3
+885,2025-01-01,Colombia,Cartagena,Ecommerce,20,Tecnologia,2767168,1451816,1315352,2
+886,2025-01-01,Colombia,Cartagena,Tienda Física,70,Tecnologia,2978395,2312373,666022,4
+887,2025-01-01,Colombia,Cartagena,Tienda Física,40,Tecnologia,1067574,767875,299699,5
+888,2025-01-01,Colombia,Cartagena,Ecommerce,37,Hogar,2881458,2174723,706735,4
+889,2025-01-01,Colombia,Cartagena,Tienda Física,55,Hogar,79403,60050,19353,5
+890,2025-01-01,Colombia,Cartagena,Ecommerce,56,Oficina,2696231,1922733,773498,5
+891,2025-01-01,Colombia,Cartagena,App Móvil,25,Oficina,385125,200177,184948,2
+892,2025-01-01,Colombia,Cartagena,Ecommerce,65,Tecnologia,333571,263958,69613,5
+893,2025-01-01,Colombia,Cartagena,Ecommerce,33,Hogar,2232709,1294507,938202,2
+894,2025-01-01,Colombia,Cartagena,Ecommerce,57,Hogar,2853592,1635650,1217942,5
+895,2025-01-01,Colombia,Cartagena,App Móvil,31,Hogar,980198,499606,480592,1
+896,2025-01-01,Colombia,Cartagena,App Móvil,18,Oficina,2910822,1571173,1339649,1
+897,2025-01-01,Colombia,Cartagena,Tienda Física,46,Oficina,1138207,566071,572136,2
+898,2025-01-01,Colombia,Cartagena,Ecommerce,64,Hogar,1437863,730051,707812,4
+899,2025-01-01,Colombia,Cartagena,App Móvil,45,Oficina,2446950,1783777,663173,4
+900,2025-01-01,Colombia,Cartagena,App Móvil,63,Oficina,1421829,875224,546605,1
+901,2025-01-01,Colombia,Cartagena,Ecommerce,68,Tecnologia,546843,383431,163412,3
+902,2025-01-01,Colombia,Cartagena,Ecommerce,41,Hogar,2052192,1399098,653094,5
+903,2025-01-01,Colombia,Cartagena,Ecommerce,28,Hogar,1851987,1054759,797228,1
+904,2025-01-01,Colombia,Cartagena,Tienda Física,64,Oficina,1598021,1205166,392855,5
+905,2025-01-01,Colombia,Cartagena,Ecommerce,35,Tecnologia,1696296,1266964,429332,5
+906,2025-01-01,Colombia,Cartagena,Ecommerce,21,Oficina,370190,166922,203268,1
+907,2025-01-01,Colombia,Cartagena,Tienda Física,18,Tecnologia,797523,368696,428827,2
+908,2025-01-01,Colombia,Cartagena,App Móvil,68,Hogar,2471522,1513728,957794,4
+909,2025-01-01,Colombia,Cartagena,Ecommerce,65,Tecnologia,2509251,1803492,705759,2
+910,2025-01-01,Colombia,Cartagena,App Móvil,60,Hogar,525745,269835,255910,5
+911,2025-01-01,Colombia,Cartagena,Ecommerce,33,Hogar,2803181,1271815,1531366,3
+912,2025-01-01,Colombia,Cartagena,App Móvil,62,Hogar,2645924,2108782,537142,5
+913,2025-01-01,Colombia,Cartagena,Tienda Física,34,Tecnologia,2556678,1966848,589830,2
+914,2025-01-01,Colombia,Cartagena,Ecommerce,33,Tecnologia,2303640,1833864,469776,4
+915,2025-01-01,Colombia,Cartagena,App Móvil,38,Oficina,1545227,752646,792581,1
+916,2025-01-01,Colombia,Cartagena,Tienda Física,40,Oficina,1924929,959173,965756,4
+917,2025-01-01,Colombia,Cartagena,App Móvil,44,Oficina,1450577,1012532,438045,4
+918,2025-01-01,Colombia,Cartagena,Tienda Física,21,Hogar,672599,351341,321258,4
+919,2025-01-01,Colombia,Cartagena,Tienda Física,57,Oficina,1697556,1301111,396445,3
+920,2025-01-01,Colombia,Cartagena,Ecommerce,65,Oficina,2823255,1637592,1185663,3
+921,2025-01-01,Colombia,Cartagena,Tienda Física,25,Hogar,2393658,1078276,1315382,3
+922,2025-01-01,Colombia,Cartagena,Ecommerce,31,Oficina,2770488,1422389,1348099,2
+923,2025-01-01,Colombia,Cartagena,Tienda Física,29,Hogar,2961809,1757993,1203816,1
+924,2025-01-01,Colombia,Cartagena,Tienda Física,68,Hogar,102737,46875,55862,5
+925,2025-01-01,Colombia,Cartagena,Ecommerce,39,Oficina,1241412,869609,371803,4
+926,2025-01-01,Colombia,Cartagena,Ecommerce,44,Oficina,2203824,1319103,884721,2
+927,2025-01-01,Colombia,Cartagena,Ecommerce,54,Hogar,621101,309503,311598,5
+928,2025-01-01,Colombia,Cartagena,App Móvil,29,Hogar,598055,271551,326504,5
+929,2025-01-01,Colombia,Cartagena,Ecommerce,66,Hogar,66323,27040,39283,1
+930,2025-01-01,Colombia,Cartagena,Ecommerce,35,Hogar,1099252,615521,483731,5
+931,2025-01-01,Colombia,Cartagena,Tienda Física,50,Tecnologia,1636941,1111842,525099,5
+932,2025-01-01,Colombia,Cartagena,Tienda Física,23,Hogar,414488,276287,138201,1
+933,2025-01-01,Colombia,Cartagena,App Móvil,69,Oficina,2441889,1143770,1298119,1
+934,2025-01-01,Colombia,Cartagena,Ecommerce,47,Oficina,2541929,1459140,1082789,4
+935,2025-01-01,Colombia,Cartagena,Tienda Física,53,Oficina,724016,377559,346457,2
+936,2025-01-01,Colombia,Cartagena,Tienda Física,69,Hogar,1917585,1450080,467505,3
+937,2025-01-01,Colombia,Cartagena,Ecommerce,29,Hogar,458554,229828,228726,2
+938,2025-01-01,Colombia,Cartagena,Ecommerce,37,Hogar,1597958,1120695,477263,1
+939,2025-01-01,Colombia,Cartagena,App Móvil,37,Tecnologia,242674,158678,83996,4
+940,2025-01-01,Colombia,Cartagena,Ecommerce,24,Tecnologia,2630638,2104420,526218,2
+941,2025-01-01,Colombia,Cartagena,Ecommerce,19,Hogar,340008,264987,75021,4
+942,2025-01-01,Colombia,Cartagena,Ecommerce,41,Hogar,818382,476368,342014,1
+943,2025-01-01,Colombia,Cartagena,Tienda Física,43,Tecnologia,2159039,1030039,1129000,2
+944,2025-01-01,Colombia,Cartagena,Tienda Física,34,Tecnologia,1656765,1315985,340780,5
+945,2025-01-01,Colombia,Cartagena,App Móvil,70,Oficina,2574275,1229069,1345206,2
+946,2025-01-01,Colombia,Cartagena,Tienda Física,50,Tecnologia,728697,522582,206115,3
+947,2025-01-01,Colombia,Cartagena,Tienda Física,24,Hogar,559149,374492,184657,1
+948,2025-01-01,Colombia,Cartagena,Ecommerce,36,Oficina,1648602,1008466,640136,5
+949,2025-01-01,Colombia,Cartagena,App Móvil,23,Oficina,2869115,1216411,1652704,5
+950,2025-01-01,Colombia,Cartagena,App Móvil,36,Hogar,1349523,906588,442935,1
+951,2025-01-01,Colombia,Cartagena,Tienda Física,69,Oficina,426238,235758,190480,4
+952,2025-01-01,Colombia,Cartagena,Ecommerce,44,Hogar,2632986,1765611,867375,5
+953,2025-01-01,Colombia,Cartagena,Tienda Física,28,Oficina,1875214,917387,957827,4
+954,2025-01-01,Colombia,Cartagena,Tienda Física,21,Oficina,259589,198950,60639,4
+955,2025-01-01,Colombia,Cartagena,App Móvil,27,Oficina,2406736,1920724,486012,2
+956,2025-01-01,Colombia,Cartagena,App Móvil,63,Oficina,1710078,782342,927736,3
+957,2025-01-01,Colombia,Cartagena,App Móvil,61,Tecnologia,2491904,1264273,1227631,5
+958,2025-01-01,Colombia,Cartagena,App Móvil,35,Oficina,645938,322522,323416,4
+959,2025-01-01,Colombia,Cartagena,Tienda Física,62,Hogar,672245,294509,377736,3
+960,2025-01-01,Colombia,Cartagena,Ecommerce,47,Oficina,1797356,1269664,527692,4
+961,2025-01-01,Colombia,Cartagena,Tienda Física,65,Hogar,1155710,552972,602738,2
+962,2025-01-01,Colombia,Cartagena,App Móvil,43,Hogar,1342534,950934,391600,1
+963,2025-01-01,Colombia,Cartagena,Tienda Física,29,Hogar,2236681,1567963,668718,5
+964,2025-01-01,Colombia,Cartagena,Tienda Física,42,Tecnologia,347280,213630,133650,2
+965,2025-01-01,Colombia,Cartagena,Ecommerce,36,Oficina,788151,527173,260978,3
+966,2025-01-01,Colombia,Cartagena,Tienda Física,38,Tecnologia,2344646,1226438,1118208,3
+967,2025-01-01,Colombia,Cartagena,Ecommerce,55,Tecnologia,1232452,958723,273729,3
+968,2025-01-01,Colombia,Cartagena,Tienda Física,63,Oficina,2143390,867351,1276039,3
+969,2025-01-01,Colombia,Cartagena,Ecommerce,65,Oficina,2857742,1613958,1243784,2
+970,2025-01-01,Colombia,Cartagena,Ecommerce,54,Tecnologia,2196426,1266824,929602,4
+971,2025-01-01,Colombia,Cartagena,Ecommerce,46,Tecnologia,2116514,1648361,468153,2
+972,2025-01-01,Colombia,Cartagena,Tienda Física,33,Oficina,2915981,2287862,628119,1
+973,2025-01-01,Colombia,Cartagena,Ecommerce,21,Oficina,2256886,1791960,464926,2
+974,2025-01-01,Colombia,Cartagena,Tienda Física,61,Hogar,598984,430348,168636,5
+975,2025-01-01,Colombia,Cartagena,Tienda Física,30,Oficina,2089923,1465280,624643,2
+976,2025-01-01,Colombia,Cartagena,Tienda Física,68,Hogar,2080040,915320,1164720,2
+977,2025-01-01,Colombia,Cartagena,Tienda Física,63,Oficina,610410,287445,322965,4
+978,2025-01-01,Colombia,Cartagena,Tienda Física,38,Tecnologia,2882569,1809812,1072757,1
+979,2025-01-01,Colombia,Cartagena,Ecommerce,31,Hogar,2432394,1339282,1093112,4
+980,2025-01-01,Colombia,Cartagena,App Móvil,45,Oficina,1769607,792611,976996,4
+981,2025-01-01,Colombia,Cartagena,App Móvil,53,Oficina,75402,51697,23705,4
+982,2025-01-01,Colombia,Cartagena,Ecommerce,49,Tecnologia,1853516,1181547,671969,5
+983,2025-01-01,Colombia,Cartagena,App Móvil,38,Tecnologia,2460886,1939085,521801,4
+984,2025-01-01,Colombia,Cartagena,App Móvil,65,Oficina,2853592,1657835,1195757,2
+985,2025-01-01,Colombia,Cartagena,Ecommerce,53,Hogar,2810008,1384833,1425175,4
+986,2025-01-01,Colombia,Cartagena,App Móvil,52,Tecnologia,634306,287856,346450,5
+987,2025-01-01,Colombia,Cartagena,App Móvil,23,Oficina,123919,50924,72995,1
+988,2025-01-01,Colombia,Cartagena,App Móvil,70,Oficina,2751549,2189999,561550,5
+989,2025-01-01,Colombia,Cartagena,Tienda Física,59,Oficina,1799820,1220057,579763,3
+990,2025-01-01,Colombia,Cartagena,App Móvil,48,Tecnologia,1920915,1424348,496567,2
+991,2025-01-01,Colombia,Cartagena,Ecommerce,38,Hogar,2492224,1656349,835875,2
+992,2025-01-01,Colombia,Cartagena,App Móvil,53,Tecnologia,1340751,948789,391962,4
+993,2025-01-01,Colombia,Cartagena,App Móvil,43,Hogar,2578527,1099081,1479446,2
+994,2025-01-01,Colombia,Cartagena,Ecommerce,65,Oficina,711913,397069,314844,1
+995,2025-01-01,Colombia,Cartagena,App Móvil,31,Hogar,2937041,1294032,1643009,5
+996,2025-01-01,Colombia,Cartagena,Ecommerce,55,Hogar,2016999,885088,1131911,4
+997,2025-01-01,Colombia,Cartagena,Ecommerce,55,Hogar,2422047,1885299,536748,1
+998,2025-01-01,Colombia,Cartagena,Ecommerce,65,Hogar,2407446,1664206,743240,1
+999,2025-01-01,Colombia,Cartagena,Ecommerce,66,Hogar,1122906,797110,325796,3
+1000,2025-01-01,Colombia,Cartagena,Ecommerce,69,Tecnologia,466224,320710,145514,4
